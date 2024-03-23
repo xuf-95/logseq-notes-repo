@@ -12,4 +12,7 @@
 -
 - ## Concat
 	- Github:
+	- X:
+	- Newsletter:
+	-
 	-
