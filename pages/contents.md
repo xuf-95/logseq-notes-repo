@@ -13,14 +13,14 @@
 	- [[信息化项目管理]]
 - ## Resource
 	- [[Tutorial]]
-	- [[Paper]]
+	- [[Product]]
 	- [[Paper]]
 	- [[Learn English]]
 	-
 	-
 -
 - ## Archive
--
+	- Journals
 - ## Concat
 	- Blog:
 	- Github:
