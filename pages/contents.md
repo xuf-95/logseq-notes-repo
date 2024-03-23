@@ -23,8 +23,7 @@
 	-
 	-
 - ## Concat
-	- Blog: [github login in](https://github.com/Sherlock-Xpf)
-	- Github:
+	- Github: [github login in](https://github.com/Sherlock-Xpf)
 	- X: [X](https://twitter.com/home)
 	- Newsletter:
 	- CV:
