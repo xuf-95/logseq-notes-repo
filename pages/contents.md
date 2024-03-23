@@ -16,7 +16,7 @@
 	- [[Product]]
 	- [[Paper]]
 	- [[Learn English]]
-	- /\
+	- [[A series of Apple
 	-
 - ## Archive
 	- [[Journals]]
