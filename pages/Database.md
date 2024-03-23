@@ -1,4 +1,5 @@
 - Alias: 数据库
-- type:: [[Database]]
+- type::
+-
 -
 -
