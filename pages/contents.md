@@ -1,9 +1,6 @@
-- [[Knowlegds]]
-- [[Project]]
-- [[Area]]
--
-- ## About
+## About
 	- Hi, I'm **XuF**
+	-
 	-
 	-
 -
@@ -12,3 +9,5 @@
 -
 - ## Archive
 -
+-
+- ## A
