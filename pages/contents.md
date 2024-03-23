@@ -12,6 +12,8 @@
 	- [[信息化项目管理]]
 - ## Resource
 	- [[Tutorial]]
+	- [[awesome-produce]]
+	- [[Paper]]
 	-
 -
 - ## Archive
