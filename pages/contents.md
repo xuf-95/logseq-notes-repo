@@ -23,6 +23,7 @@
 - ## Archive
 	- [[Journals]]
 	- [[Task]]
+	- [[Year Summarize]]
 	-
 	-
 	-
