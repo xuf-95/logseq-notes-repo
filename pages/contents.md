@@ -1,6 +1,7 @@
 ## About
 	- Hi, I'm **XuF**
-	- A Bigdata Engineer, like P
+	- A Bigdata Engineer, like Python, Java
+	-
 - ## Area
 - ## Resource
 -
