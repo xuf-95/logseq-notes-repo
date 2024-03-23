@@ -1,6 +1,7 @@
 ## About
 	- Hi, I'm **XuF**
-	- A Bigdata Engineer and Digitial Nomad now. like Python, Java
+	- A Bigdata Engineer and Digitial Nomad now.
+	- Like GYM
 	-
 - ## Area
 - ## Resource
