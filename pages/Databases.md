@@ -1,6 +1,7 @@
 - Alias: 数据库
 - category:: [[Databases]]
-  sub-category:: [[Frontend]]
+  sub-category:: [[Data Store]]
+-
 -
 -
 -
