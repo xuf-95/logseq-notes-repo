@@ -7,6 +7,7 @@
 - ## Area
 	- [[Database]]
 	- [[Bigdata]]
+	- [[Visual Report]]
 	- [[DCMM]]
 	- [[Web3.0]]
 	- [[AIGC]]
