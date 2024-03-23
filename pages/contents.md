@@ -25,7 +25,7 @@
 - ## Concat
 	- Blog:
 	- Github:
-	- X:
+	- X: [X](https://twitter.com/home)
 	- Newsletter:
 	- CV:
 	-
