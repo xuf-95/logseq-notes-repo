@@ -1,5 +1,5 @@
 - Alias: 数据库
-- category:: [[Programming]]
+- category:: [[Databases]]
   sub-category:: [[Frontend]]
 -
 -

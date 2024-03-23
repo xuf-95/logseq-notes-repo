@@ -5,7 +5,7 @@
 	  id:: 65fefc22-df62-4a04-9cff-e0562b17cc09
 	-
 - ## Area
-	- [[Database]]
+	- [[Databases]]
 	- [[Bigdata]]
 	- [[Visual Report]]
 	- [[DCMM]]
