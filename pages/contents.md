@@ -21,6 +21,7 @@
 -
 - ## Archive
 	- [[Journals]]
+	- [[Task]]
 	-
 	-
 - ## Concat
