@@ -21,6 +21,7 @@
 -
 - ## Archive
 	- [[Journals]]
+	- [[Journals]]
 	-
 - ## Concat
 	- Blog:
