@@ -1,9 +1,6 @@
 ## About
 	- Hi, I'm **XuF**
-	-
-	-
-	-
--
+	- A
 - ## Area
 - ## Resource
 -
@@ -11,8 +8,9 @@
 -
 -
 - ## Concat
+	- Blog:
 	- Github:
 	- X:
 	- Newsletter:
-	-
+	- CV:
 	-
