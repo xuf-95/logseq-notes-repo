@@ -6,8 +6,9 @@ Alias:: 数据库
 -
 - alias:: Druid
   language:: Java
-  type:: I Database
-  category: IIOLAPII, LISQLII
+  type:: Database
+  category:: IIOLAPII, LISQLII
+-
 -
 -
 -
