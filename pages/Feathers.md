@@ -1,3 +1,3 @@
 - ![Feathers](https://logseq.pro/assets/image_1699015469809_0.png){:height 340, :width 780}
-- > 《时间管理--给系统管理员》
+- > 摘自《时间管理--给系统管理员》
 -
