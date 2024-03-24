@@ -20,7 +20,6 @@
 	- [[Paper]]
 	- [[Apple]]
 	- [[Product]]
-	- [[Learn]]
 -
 - ## Miscellaneous
 	- [[Roadmap]]
