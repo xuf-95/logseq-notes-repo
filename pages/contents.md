@@ -16,7 +16,7 @@
 	- [[Noiton Space]]
 	- [[Tutorial]]
 	- [[Paper]]
-	- [[Awesome Apple]]
+	- [[Apple]]
 	- [[Product]]
 	- [[Learn English]]
 -
