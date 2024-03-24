@@ -12,6 +12,7 @@
 	- [[Web3.0]]
 	- [[AIGC]]
 	- [[信息化项目管理]]
+	- [[Language]]
 	-
 - ## Resource
 	- [[Noiton Space]]
@@ -19,7 +20,7 @@
 	- [[Paper]]
 	- [[Apple]]
 	- [[Product]]
-	- [[Learn English]]
+	- [[Learn]]
 -
 - ## Miscellaneous
 	- [[Roadmap]]
