@@ -1,4 +1,5 @@
--
+### [[Project]]
+	-
 -
 -
 - ### Web3 Resource
@@ -6,5 +7,6 @@
 -
 -
 - ### Commiunity
-	- [uncommons](https://uncommons.notion.site/Uncommons-04ea0224d3cd4fe9b5181b6dd22d02b4) -
+	- [uncommons](https://uncommons.notion.site/Uncommons-04ea0224d3cd4fe9b5181b6dd22d02b4) - Notion
+	-
 	-
