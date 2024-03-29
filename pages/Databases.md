@@ -12,6 +12,7 @@ Alias:: 数据库
 - [[Apache Druid]]
 - [[TiDB]]
 - [[ClinkHouse]]
+- [[Hbase]]
 -
 -
 -
