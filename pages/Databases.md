@@ -8,11 +8,11 @@ Alias:: 数据库
 	- [[ClinkHouse]]
 	- [[Hbase]]
 -
--
--
-- [[Apache Hive]]
-- [[Apache Druid]]
-- [[TiDB]]
+- [[DataHouse]]
+	- [[Apache Hive]]
+	- [[Apache Druid]]
+	- [[TiDB]]
+	-
 -
 - id:: 6606df91-0b8e-4832-9c93-84d058de75be
 -
