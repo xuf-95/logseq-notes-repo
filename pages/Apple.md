@@ -8,5 +8,7 @@
 - ### Text Tool
 	- [[Typora]]
 	- [[MiaoYan]]
+	- [[Notion]]
+	- [[Logseq]]
 	-
 -
