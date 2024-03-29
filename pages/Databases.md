@@ -16,6 +16,7 @@ Alias:: 数据库
 -
 - [[Data Lake]] - 数据湖
 	- [[Hudi]]
+	- [[DataLake]]
 	-
 	-
 -
