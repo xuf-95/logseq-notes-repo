@@ -3,5 +3,8 @@
 	- [[Visiual Studio]]
 	- [[Subline]]
 	- [[Gitken]]
-- ### Text Tool
 	-
+- ### Text Tool
+	- [[Typora]]
+	- [[MiaoYan]]
+-
