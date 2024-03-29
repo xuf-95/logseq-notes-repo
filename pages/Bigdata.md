@@ -1,4 +1,6 @@
 - [[Hadoop]]
 - [[Spark]]
-- [[Flinke]]
+- [[Flink]]
+- [[Kafka]]
+-
 -
