@@ -14,12 +14,12 @@ Alias:: 数据库
 	- [[TiDB]]
 	-
 -
-- id:: 6606df91-0b8e-4832-9c93-84d058de75be
--
 - [[Data Lake]] - 数据湖
 	- [[Hudi]]
 	- [[DataLake]]
 -
+	- [[Data Compute]]
+	-
 	-
 -
 -
