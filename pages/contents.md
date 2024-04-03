@@ -5,10 +5,8 @@
 	  id:: 65fefc22-df62-4a04-9cff-e0562b17cc09
 	-
 - ## Area
-	- [[Databases]]
 	- [[Bigdata]]
-	- [[Visual Report]]
-	- [[DCMM]]
+		- [[DCMM]]
 	- [[Web3.0]]
 	- [[AIGC]]
 	- [[信息化项目管理]]

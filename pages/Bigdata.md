@@ -1,6 +1,55 @@
-- [[Hadoop]]
-- [[Spark]]
-- [[Flink]]
-- [[Kafka]]
+- [[数据计算]]
+	- [[Apache Flink]]
+	- [[Apache Spark]]
+	- [[Apache Hive]]
+-
+- [[数据存储]]
+	- Alias:: 数据库
+	- category:: [[Databases]]
+	  sub-category:: [[Data Store]]
+	- [[Hive]]
+	- [[KuDu]]
+	-
+	-
+	- [[NoSQL]]
+		- [[ClinkHouse]]
+		- [[Apache Hbase]]
+	-
+	- [[DataHouse]] - 数据仓库
+		- [[Apache Hive]]
+		- [[Apache Druid]]
+		- [[TiDB]]
+		-
+	- [[Data Lake]] - 数据湖
+		- [[Hudi]]
+		- [[DataLake]]
+	-
+	- [[内存存储]]
+		- [[Redis]]
+			-
+			-
+			-
+			-
+			-
+			-
+-
+- [[消息队列]] - 中间件
+	- [[Kafka]]
+-
+- [[Data Model]]
+	- [[维度建模]]
+	-
+- [[Workflow]] #数据集成
+  id:: 660c2961-5a8d-4944-a997-9678521f290b
+	- [[Airflow]]
+	- [[Ooize]]
 -
 -
+- [[用户画像]]
+- [[数据指标体系]]
+-
+- [[Resume-CV]] - 大数据岗位
+	- [[数据产品经理]]
+	- [[大数据开发工程师]]
+	- [[大数据ETL工程师]]
+	-
