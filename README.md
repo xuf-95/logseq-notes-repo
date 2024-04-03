@@ -1,1 +1,1 @@
-# logsel-notes-repo
+# logseq-notes-repo
