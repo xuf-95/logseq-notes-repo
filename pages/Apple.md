@@ -11,4 +11,7 @@
 	- [[Notion]]
 	- [[Logseq]]
 	-
+- ### Photo
+- ### Movie
+-
 -
