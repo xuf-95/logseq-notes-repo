@@ -4,8 +4,8 @@
 	- [[Subline]]
 	- [[Gitken]]
 	- [[Swtichhost]]
-	- [[Idea]]
 	- [[JetBrains ]]
+		- [[Idea]]
 	-
 	-
 - ### Text Tool
