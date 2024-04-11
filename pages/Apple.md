@@ -1,5 +1,5 @@
 ### Code Tool
-	- [[Wazp]]
+	- [[Wazp]] -
 	- [[Visiual Studio]]
 	- [[Subline]]
 	- [[Gitken]]
@@ -8,6 +8,7 @@
 		- [[IntelliJ IDEA]]
 		- [[PyCharm]]
 		- [[DataSpeel]]
+		- [[GoLand]]
 		-
 	-
 	-
