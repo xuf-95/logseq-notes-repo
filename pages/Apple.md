@@ -1,5 +1,5 @@
 ### Code Tool
-	- [[Wazp]] -
+	- [[Wazp]]
 	- [[Visiual Studio]]
 	- [[Subline]]
 	- [[Gitken]]
