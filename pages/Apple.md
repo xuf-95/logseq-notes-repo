@@ -7,7 +7,8 @@
 	- [[JetBrains ]]
 		- [[IntelliJ IDEA]]
 		- [[PyCharm]]
-		- [[]]
+		- [[DataSpeel]]
+		-
 	-
 	-
 - ### Text Tool
