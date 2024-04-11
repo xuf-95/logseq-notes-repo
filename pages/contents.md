@@ -12,30 +12,35 @@
 	- [[信息化项目管理]]
 	- [[Language]]
 	-
+	
 - ## Resource
 	- [[Noiton Space]]
 	- [[Tutorial]]
 	- [[Paper]]
 	- [[Apple]]
 	- [[Product]]
--
+	-
+	
 - ## Miscellaneous
 	- [[Roadmap]]
 	-
+	
 - ##
+
 - ## Navigation
 	- [[Feathers]]
 	-
+	
 - ## Archive
 	- [[Journals]]
 	- [[Task]]
 	- [[Year Summarize]]
 	- [[FAQ]]
 	-
+	
 - ## Concat
 	- Blog:
 	- Github: [github login in](https://github.com/Sherlock-Xpf)
 	- X: [X](https://twitter.com/home)
-	- Newsletter:
 	- CV:
-	-
+	- [Xlog](https://xlog.app/) - 记录Web3.0相关内容
