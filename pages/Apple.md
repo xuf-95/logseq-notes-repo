@@ -4,6 +4,8 @@
 	- [[Subline]]
 	- [[Gitken]]
 	- [[Swtichhost]]
+	- [[Idea]]
+	-
 	-
 - ### Text Tool
 	- [[Typora]]
@@ -12,6 +14,6 @@
 	- [[Logseq]]
 	-
 - ### Photo
-- ### Movie
+- ### Note
 -
 -
