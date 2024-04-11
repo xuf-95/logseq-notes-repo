@@ -5,7 +5,7 @@
 	- [[Gitken]]
 	- [[Swtichhost]]
 	- [[JetBrains ]]
-		- [[Idea]]
+		- [[IntelliJ IDEA]]
 	-
 	-
 - ### Text Tool
