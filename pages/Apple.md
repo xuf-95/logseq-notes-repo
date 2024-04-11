@@ -6,7 +6,8 @@
 	- [[Swtichhost]]
 	- [[JetBrains ]]
 		- [[IntelliJ IDEA]]
-		-
+		- [[PyCharm]]
+		- [[]]
 	-
 	-
 - ### Text Tool
