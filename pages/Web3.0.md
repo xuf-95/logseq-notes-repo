@@ -8,7 +8,7 @@
 - ## ## Binian
 - ## Tutroial
 	-
-- ### Web3 Resource
+- ### Web3 Knowledge
 	- [btcdayu](https://btcdayu.gitbook.io/dayu)
 	-
 	-
