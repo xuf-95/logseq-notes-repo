@@ -1,1 +1,1 @@
-- {{query pro}}
+- {{query }}
