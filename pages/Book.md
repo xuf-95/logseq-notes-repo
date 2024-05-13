@@ -1,3 +1,3 @@
 - {{query (property :type "book")}}
-  query-table:: false
+  query-table:: true
 -

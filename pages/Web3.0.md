@@ -16,7 +16,7 @@
 	- [uncommons](https://uncommons.notion.site/Uncommons-04ea0224d3cd4fe9b5181b6dd22d02b4) - Notion
 	-
 - ### Books
-	- [[自由：不治之症 - Freedom：A Disease Without Cure]]
+	- [[自由：不治之症]]
 	  type:: book
 	  name:: 自由：不治之症 - Freedom：A Disease Without Cure
 	  area:: [[Web3.0]] 
