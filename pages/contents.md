@@ -13,7 +13,7 @@
 	- [[Language]]
 -
 - ## Resource
-	- [[Noiton Space]]
+	- [[Notion Space]]
 	- [[Tutorial]]
 	- [[Apple]]
 	- [[Product]]
