@@ -1,3 +1,4 @@
 - {{query (property :type "book")}}
-- Query: (property type book)
+- {{query (property type book)}}
+  query-table:: true
 -
