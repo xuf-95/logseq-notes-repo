@@ -18,5 +18,6 @@
 - ### Books
 	- [[自由：不治之症 - Freedom：A Disease Without Cure]]
 	  type:: book
+	  name:: 自由：
 	  date:: [[May 13th, 2024]]
 -
