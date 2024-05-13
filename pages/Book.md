@@ -1,1 +1,1 @@
-- {{query }}
+- {{query (property :type "book")}}
