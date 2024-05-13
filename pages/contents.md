@@ -24,7 +24,6 @@
 - ##
 - ## Navigation
 	- [[Feathers]]
-	- [[todo list dashboard]]
 	-
 	-
 - ## Archive
