@@ -18,7 +18,7 @@
 - ### Books
 	- [[自由：不治之症 - Freedom：A Disease Without Cure]]
 	  type:: book
-	  name:: 自由：不治之症
+	  name:: 自由：不治之症 - Freedom：A Disease Without Cure
 	  area:: [[Web3.0]] 
 	  date:: [[May 13th, 2024]]
 	-
