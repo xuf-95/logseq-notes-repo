@@ -1,6 +1,4 @@
-## About
-	-
-- ## Area
+## Area
 	- [[Bigdata]]
 		- [[DCMM]]
 	- [[Web3.0]]
@@ -33,8 +31,3 @@
 	-
 - ## Concat
 	- TODO Blog
-	- [Github](https://github.com/Sherlock-Xpf)
-	- [X](https://twitter.com/home)
-	- TODO CV
-	- [Xlog](https://xlog.app/) - 记录Web3.0相关内容
--
