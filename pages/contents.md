@@ -28,6 +28,3 @@
 	- [[Task]]
 	- [[Year Summarize]]
 	- [[FAQ]]
-	-
-- ## Concat
-	- TODO Blog
