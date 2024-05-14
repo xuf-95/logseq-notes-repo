@@ -12,8 +12,6 @@
 	- [[Apple]]
 	- [[Product]]
 	- [[Book]]
-	-
-	-
 - ## Miscellaneous
 	- [[Roadmap]]
 	-
