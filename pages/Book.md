@@ -2,5 +2,6 @@
   query-table:: true
   query-sort-by:: date
   query-sort-desc:: true
-  query-properties:: [:page :name :date]
+  query-properties:: [:name :date :block]
+-
 -
