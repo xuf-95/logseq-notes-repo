@@ -7,7 +7,6 @@
 	- [[Language]]
 -
 - ## Resource
-	- [[Notion Space]]
 	- [[Tutorial]]
 	- [[Apple]]
 	- [[Product]]
