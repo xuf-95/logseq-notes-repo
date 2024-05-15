@@ -11,8 +11,9 @@
 -
 	- [[数据存储]]
 	- Alias:: 数据库
-	- type:: [[Database]]
+	  type:: [[Database]]
 	  category:: [[Data Store]]
+	-
 	- [[Hive]]
 	- [[KuDu]]
 	-
