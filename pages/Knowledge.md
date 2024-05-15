@@ -7,7 +7,7 @@
   [[tag]]: AI
   url: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
   desc: 实现通用人工智能
-- publish at: 20230426
+  publish at: 20230426
 -
 -
 -
