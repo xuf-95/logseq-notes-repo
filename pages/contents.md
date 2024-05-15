@@ -2,11 +2,12 @@
 	- [[Bigdata]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[Language]]
+	-
 - ### [[Project]]
 	- [[Grass]]
 	- [[Digital Nomad Village]]
-		- [[DCMM]]
+	- [[DCMM]]
+	- [[Language]]
 	-
 	-
 - ### [[Resources]]
