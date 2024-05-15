@@ -21,7 +21,7 @@
 - ### Miscellaneous
 	- [[Roadmap]]
 	-
-- ###
+- ### [[Dashboard]]
 	- [[Journals]]
 	- [[Task]]
 	- [[Year Summarize]]
