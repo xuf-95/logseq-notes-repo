@@ -1,4 +1,4 @@
-#### [[Databases]] List  ->
+#### [[Databases]] List  -> All in Databases
 	- {{query type }}
 -
 - [[数据计算]]
