@@ -8,11 +8,9 @@
 	- category:: [[Database]]
 	  sub-category:: [[Data Store]]
 	- [[MySQL]]
-		- type: Database
+		- type: Database 
 		  [[Language]]: [[CPP]]
 		  [[sub-category]]: [[OLTP]], [[SQL]]
-		-
-		-
 	- [[Hive]]
 		-
 	- [[KuDu]]
