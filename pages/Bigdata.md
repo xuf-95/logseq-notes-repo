@@ -1,7 +1,7 @@
 #### [[Databases]] List  -> All in [[Databases]]
 	- {{query type }}
 -
-- [[数据集成]] -> ETL
+- [[数据集成]] -> ETL  中的 E（Extract）意为
 	- alias:: Data Integration
 	  type:: Extract
 	  category:: Data Integration
