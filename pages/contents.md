@@ -9,7 +9,7 @@
 	- [[Digital Nomad Village]]
 	-
 	-
-- ### Resources
+- ### [[Resources]]
 	- [[Knowledge]]
 	- [[Reding]]
 	- [[Tutorial]]
