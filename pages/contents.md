@@ -16,7 +16,6 @@
 	- [[Tutorial]]
 	- [[Productive]]
 	- [[Apple]]
-	- [[Product]]
 - ### Miscellaneous
 	- [[Roadmap]]
 - ### Archive
