@@ -1,4 +1,4 @@
-## Area
+### Area
 	- [[Bigdata]]
 		- [[DCMM]]
 	- [[Web3.0]]
@@ -6,7 +6,7 @@
 	- [[信息化项目管理]]
 	- [[Language]]
 -
-- ## Resources
+- ### Resources
 	- [[Tutorial]]
 	- [[Apple]]
 	- [[Product]]
@@ -14,11 +14,9 @@
 	- [[Knowledge]]
 	- [[Productive]]
 	-
-	-
-	-
-- ## Miscellaneous
+- ### Miscellaneous
 	- [[Roadmap]]
-- ## Archive
+- ### Archive
 	- [[Journals]]
 	- [[Task]]
 	- [[Year Summarize]]
