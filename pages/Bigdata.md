@@ -11,9 +11,8 @@
 		- {{query type }}
 	- [[MySQL]]
 		- type:: Database 
-		  [[Language]]:: [[CPP]]
+		  [[Language]]:: 
 		  [[sub-category]]:: [[OLTP]], [[SQL]]
-		-
 	- [[Hive]]
 		-
 	- [[KuDu]]
