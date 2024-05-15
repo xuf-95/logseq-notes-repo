@@ -1,5 +1,6 @@
 - [[Obsidian]]
 - [[Yuque]]
 - [[Notion]]
-	- Type
+	- Type: [[Product]]
+	-
 -
