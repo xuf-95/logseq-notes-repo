@@ -9,9 +9,9 @@
 - ### Resources
 	- [[Tutorial]]
 	- [[Apple]]
+	- [[Knowledge]]
 	- [[Product]]
 	- [[Reding]]
-	- [[Knowledge]]
 	- [[Productive]]
 	-
 - ### Miscellaneous
