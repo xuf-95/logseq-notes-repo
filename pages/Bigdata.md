@@ -12,7 +12,7 @@
 	- [[MySQL]]
 		- type:: Database
 		  tag:: [[CPP]]
-		  language
+		  language::
 	- [[Hive]]
 		-
 	- [[KuDu]]
