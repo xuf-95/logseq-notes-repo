@@ -4,10 +4,10 @@
 -
 -
 - [[Obsidian]]
-	- Type: [[Product]] 
-	  URL: 
-	  Status: ACTIVE
-	  About:
+	- type: [[Product]] 
+	  url: 
+	  status: ACTIVE
+	  about:
 - [[Yuque]]
 	- Type: [[Product]] 
 	  URL: 
