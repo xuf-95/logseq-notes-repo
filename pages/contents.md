@@ -6,7 +6,7 @@
 	- [[信息化项目管理]]
 	- [[Language]]
 -
-- ## Resource
+- ## Resources
 	- [[Tutorial]]
 	- [[Apple]]
 	- [[Product]]
