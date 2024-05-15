@@ -7,7 +7,8 @@
 	- Alias:: 数据库
 	- category:: [[Database]]
 	  sub-category:: [[Data Store]]
-	-
+	- #### [[Databases]] List
+		- {{query }}
 	- [[MySQL]]
 		- type: Database 
 		  [[Language]]: [[CPP]]
