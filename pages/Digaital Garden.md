@@ -1,8 +1,8 @@
 - [[Obsidian]]
 - [[Yuque]]
+	-
 - [[Notion]]
 	- Type: [[Product]]
-	  URL: 
+	  URL: mmcginnis32364@student.napavalley.edu
 	  Model:
-		-
 -
