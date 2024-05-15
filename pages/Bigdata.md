@@ -5,10 +5,10 @@
 -
 - [[数据存储]]
 	- Alias:: 数据库
-	- category:: [[Databases]]
+	- category:: [[Database]]
 	  sub-category:: [[Data Store]]
 	- [[MySQL]]
-		-
+		- type: Database
 	- [[Hive]]
 		-
 	- [[KuDu]]
