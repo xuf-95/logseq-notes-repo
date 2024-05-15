@@ -1,5 +1,13 @@
+-
+-
+-
+-
+-
 - [[Obsidian]]
-	-
+	- Type: [[Product]] 
+	  URL: 
+	  Status: ACTIVE
+	  About:
 - [[Yuque]]
 	- Type: [[Product]] 
 	  URL: 
