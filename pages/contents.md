@@ -19,3 +19,5 @@
 	- [[Task]]
 	- [[Year Summarize]]
 	- [[FAQ]]
+-
+- {{query }}
