@@ -2,7 +2,9 @@
   [[tag]]: Resources
   url: https: https//pmthinking.com/
   publish at: 2017年
-- 通往
+- 通往AIGC之路
+  [[tag]]: AI
+- url:
 -
 -
 -
