@@ -7,14 +7,11 @@
 -
 - #### [[Databases]] List
 	- {{query type }}
-- [[数据存储]]
+-
+	- [[数据存储]]
 	- Alias:: 数据库
 	- type:: [[Database]]
 	  category:: [[Data Store]]
-	- [[MySQL]]
-		- type:: Database
-		  tag:: [[CPP]]
-		  category:: [[OLTP]]
 	- [[Hive]]
 	- [[KuDu]]
 	-
@@ -27,6 +24,10 @@
 		- [[Apache Druid]]
 		- [[TiDB]]
 		-
+		- [[MySQL]]
+			- type:: Database
+			  tag:: [[CPP]]
+			  category:: [[OLTP]]
 	- [[Data Lake]] - 数据湖
 		- [[Hudi]]
 		- [[DataLake]]
