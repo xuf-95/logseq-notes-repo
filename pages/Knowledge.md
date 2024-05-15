@@ -1,7 +1,8 @@
 - 产品沉思录
   [[tag]]: Resources
-  url: https://pmthinking.com/
-  publish
+  url: https: https//pmthinking.com/
+  publish at: 2017年
+-
 -
 -
 -
