@@ -8,7 +8,7 @@
 	- [[Digital Nomad Village]]
 	- [[DCMM]]
 	- [[Language]]
-	-
+	- [[English Studies]]
 	-
 - ### [[Resources]]
 	- [[Knowledge]]

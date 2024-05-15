@@ -3,7 +3,7 @@ Alias:: EN
 - tag:: Language
 - [[Words]]
 - [[Article]]
-- [[Github [[English]] Resource]]
+- [[Github [[English Studies]] Resource]]
 -
 -
 -
