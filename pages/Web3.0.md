@@ -7,7 +7,7 @@
 - ### EThereum
 - ### Binian
 - ### Tutroial
-- ### Web3 Knowledge
+- Knowledge
 	- [btcdayu](https://btcdayu.gitbook.io/dayu) #Knowledge
 	-
 	-
