@@ -1,9 +1,9 @@
 #### [[Databases]] List  -> All in [[Databases]]
 	- {{query type }}
 -
-- [[数据集成]]
+- [[数据集成]] -> ETL
 	- alias:: Data Integration
-	  type:: 
+	  type:: Extract
 	  category:: Data Integration
 - [[数据计算]]
 	- [[Apache Flink]]
