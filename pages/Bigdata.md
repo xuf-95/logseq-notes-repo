@@ -8,18 +8,17 @@
 -
 -
 -
--
-	- [[数据存储]]
+- [[数据存储]]
 	- Alias:: 数据库
 	  type:: [[Database]]
 	  category:: [[Data Store]]
-	-
-	- [[Hive]]
-	- [[KuDu]]
-	-
+-
 	- [[NoSQL]]
 		- [[ClinkHouse]]
 		- [[Apache Hbase]]
+	- [[Hive]]
+	- [[KuDu]]
+	-
 	-
 	- [[DataHouse]] - 数据仓库
 		- [[Apache Hive]]
