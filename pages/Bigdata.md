@@ -11,7 +11,7 @@
 		- {{query type }}
 	- [[MySQL]]
 		- type:: Database 
-		  [[Language]]:: 
+		  [[Language]]:: [[CPP]] 
 		  [[sub-category]]:: [[OLTP]], [[SQL]]
 	- [[Hive]]
 		-
