@@ -1,4 +1,4 @@
-#### [[Databases]] List  -> All in Databases
+#### [[Databases]] List  -> All in [[Databases]]
 	- {{query type }}
 -
 - [[数据计算]]
@@ -9,29 +9,13 @@
 -
 -
 - [[数据存储]]
-	- Alias:: 数据库
+	- Alias:: [[数据库]]
 	  type:: [[Database]]
 	  category:: [[Data Store]]
 -
 	- [[NoSQL]]
 		- [[ClinkHouse]]
 		- [[Apache Hbase]]
-	- [[Hive]]
-	- [[KuDu]]
-	-
-	-
-	- [[DataHouse]] - 数据仓库
-		- [[Apache Hive]]
-		- [[Apache Druid]]
-		- [[TiDB]]
-		-
-		- [[MySQL]]
-			- type:: Database
-			  tag:: [[CPP]]
-			  category:: [[OLTP]]
-	- [[Data Lake]] - 数据湖
-		- [[Hudi]]
-		- [[DataLake]]
 	-
 	- [[内存存储]]
 		- [[Redis]]
@@ -41,6 +25,23 @@
 			-
 			-
 			-
+	- [[Data Lake]] - 数据湖
+		- [[Hudi]]
+		- [[DataLake]]
+	- [[DataHouse]] - 数据仓库
+		- [[Apache Hive]]
+		- [[Apache Druid]]
+		- [[TiDB]]
+		-
+		- [[MySQL]]
+			- type:: Database
+			  tag:: [[CPP]]
+			  category:: [[OLTP]]
+	- [[Hive]]
+	- [[KuDu]]
+	-
+	-
+	-
 -
 - [[消息队列]] - 中间件
 	- [[Kafka]]
