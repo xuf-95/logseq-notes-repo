@@ -1,8 +1,9 @@
 - [[Obsidian]]
+	-
 - [[Yuque]]
-	- Type:
-	  URL:
-	  Status:
+	- Type: [[Product]] 
+	  URL: 
+	  Status: ACTIVE
 	  About:
 - [[Notion]]
 	- Type: [[Product]]
