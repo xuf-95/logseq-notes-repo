@@ -10,9 +10,8 @@
 	- #### [[Databases]] List
 		- {{query type }}
 	- [[MySQL]]
-		- type:: Database
-		- [[Language]]:: [[CPP]]
-		-
+		- type:: Database 
+		  tag:: [[CPP]]
 	- [[Hive]]
 		-
 	- [[KuDu]]
