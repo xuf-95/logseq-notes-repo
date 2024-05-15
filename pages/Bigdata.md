@@ -9,8 +9,9 @@
 	  sub-category:: [[Data Store]]
 	- [[MySQL]]
 		- type: Database
-		  language: [[CPP]]
-		  sub-category:
+		  [[Language]]: [[CPP]]
+		  [[sub-category]]: [[OLTP]], [[SQL]]
+		-
 		-
 	- [[Hive]]
 		-
