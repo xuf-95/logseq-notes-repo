@@ -10,7 +10,7 @@
 	- [[Tutorial]]
 	- [[Apple]]
 	- [[Product]]
-	- [[Book]]
+	- [[Reding]]
 	-
 	-
 - ## Miscellaneous
