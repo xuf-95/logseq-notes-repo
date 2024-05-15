@@ -1,7 +1,7 @@
 ### [[Area]]
+	- [[AIGC]]
 	- [[Bigdata]]
 	- [[Web3.0]]
-	- [[AIGC]]
 	- [[Digaital Garden]]
 	- [[Second Brain]]
 	-
