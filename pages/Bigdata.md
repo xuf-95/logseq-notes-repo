@@ -20,10 +20,7 @@
 	- [[内存存储]]
 		- [[Redis]]
 			-
-			-
-			-
-			-
-			-
+		- [[KuDu]]
 			-
 	- [[Data Lake]] - 数据湖
 		- [[Hudi]]
@@ -38,7 +35,6 @@
 			  tag:: [[CPP]]
 			  category:: [[OLTP]]
 	- [[Hive]]
-	- [[KuDu]]
 	-
 	-
 	-
@@ -66,6 +62,7 @@
 -
 - Tp
 	- type: 
+	  id:: 6644bd29-5d6c-4bd6-a623-ecf228434c7f
 	  alias: 
 	  [[Language]]: 
 	  [[sub-category]]:
