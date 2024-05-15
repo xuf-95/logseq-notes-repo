@@ -1,6 +1,9 @@
 - [[Obsidian]]
 - [[Yuque]]
-	-
+	- Type:
+	  URL:
+	  Status:
+	  About:
 - [[Notion]]
 	- Type: [[Product]]
 	  id:: 6644b9d5-b1c4-4bb2-bbd0-681680839a84
