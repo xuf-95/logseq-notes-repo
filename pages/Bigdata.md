@@ -13,6 +13,7 @@
 		- type:: Database
 		  tag:: [[CPP]]
 		  category:: [[OLTP]]
+		-
 	- [[Hive]]
 		-
 	- [[KuDu]]
