@@ -9,6 +9,8 @@
 	  sub-category:: [[Data Store]]
 	- [[MySQL]]
 		- type: Database
+		  language: [[CPP]]
+		-
 	- [[Hive]]
 		-
 	- [[KuDu]]
