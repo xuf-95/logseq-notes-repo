@@ -2,12 +2,12 @@
 	- [[Bigdata]]
 	- [[Web3.0]]
 	- [[AIGC]]
+	- [[Digaital Garden]]
 	-
 - ### [[Project]]
 	- [[Grass]]
 	- [[Digital Nomad Village]]
 	- [[DCMM]]
-	- [[Language]]
 	- [[English Studies]]
 	-
 - ### [[Resources]]
