@@ -6,6 +6,8 @@
 	- [[Language]]
 - ### [[Project]]
 	- [[Grass]]
+	- [[Digital Nomad Village]]
+	-
 	-
 - ### Resources
 	- [[Knowledge]]
