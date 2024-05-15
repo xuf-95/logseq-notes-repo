@@ -2,9 +2,9 @@
 	- {{query type }}
 -
 - [[数据集成]]
-	- alias:: Data Interget
+	- alias:: Data Integet
 	  type:: 
-	  category::
+	  category:: Data Interget
 - [[数据计算]]
 	- [[Apache Flink]]
 	- [[Apache Spark]]
