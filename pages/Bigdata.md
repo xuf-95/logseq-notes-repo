@@ -6,13 +6,14 @@
 - [[数据存储]]
 	- Alias:: 数据库
 	- type:: [[Database]]
-	  sub-category:: [[Data Store]]
+	  category:: [[Data Store]]
 	- #### [[Databases]] List
 		- {{query type }}
 	- [[MySQL]]
-		- type: Database 
-		  [[Language]]: [[CPP]]
-		  [[sub-category]]: [[OLTP]], [[SQL]]
+		- type:: Database 
+		  [[Language]]:: [[CPP]]
+		  [[sub-category]]:: [[OLTP]], [[SQL]]
+		-
 	- [[Hive]]
 		-
 	- [[KuDu]]
