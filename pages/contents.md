@@ -4,6 +4,7 @@
 	- [[AIGC]]
 	- [[Digaital Garden]]
 	-
+	-
 - ### [[Project]]
 	- [[Grass]]
 	- [[Digital Nomad Village]]
@@ -16,8 +17,10 @@
 	- [[Tutorial]]
 	- [[Productive]]
 	- [[Apple]]
+	-
 - ### Miscellaneous
 	- [[Roadmap]]
+	-
 - ### Archive
 	- [[Journals]]
 	- [[Task]]
