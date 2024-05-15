@@ -1,4 +1,5 @@
 - [[Obsidian]]
-	- [[Notion]]
 - [[Yuque]]
+- [[Notion]]
+	- Type
 -
