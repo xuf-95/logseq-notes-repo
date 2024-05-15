@@ -3,19 +3,19 @@
 	- [[Apache Spark]]
 	- [[Apache Hive]]
 -
+-
+-
+- #### [[Databases]] List
+	- {{query type }}
 - [[数据存储]]
 	- Alias:: 数据库
 	- type:: [[Database]]
 	  category:: [[Data Store]]
-	- #### [[Databases]] List
-		- {{query type }}
 	- [[MySQL]]
 		- type:: Database
 		  tag:: [[CPP]]
 		  category:: [[OLTP]]
-		-
 	- [[Hive]]
-		-
 	- [[KuDu]]
 	-
 	- [[NoSQL]]
