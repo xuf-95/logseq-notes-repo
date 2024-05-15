@@ -5,7 +5,7 @@
 -
 - [[数据存储]]
 	- Alias:: 数据库
-	- category:: [[Database]]
+	- type:: [[Database]]
 	  sub-category:: [[Data Store]]
 	- #### [[Databases]] List
 		- {{query type }}
