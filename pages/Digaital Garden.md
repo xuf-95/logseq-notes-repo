@@ -9,7 +9,7 @@
 	  status: ACTIVE
 	  about:
 - [[Yuque]]
-	- Type: [[Product]] 
+	- type: [[Product]] 
 	  URL: 
 	  Status: ACTIVE
 	  About:
