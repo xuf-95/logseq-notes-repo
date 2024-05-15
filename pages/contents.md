@@ -7,13 +7,12 @@
 	- [[Language]]
 -
 - ### Resources
+	- [[Knowledge]]
+	- [[Reding]]
 	- [[Tutorial]]
 	- [[Apple]]
-	- [[Knowledge]]
-	- [[Product]]
-	- [[Reding]]
 	- [[Productive]]
-	-
+	- [[Product]]
 - ### Miscellaneous
 	- [[Roadmap]]
 - ### Archive
