@@ -3,6 +3,8 @@
 -
 - [[数据集成]]
 	- alias:: Data Interget
+	  type:: 
+	  category::
 - [[数据计算]]
 	- [[Apache Flink]]
 	- [[Apache Spark]]
