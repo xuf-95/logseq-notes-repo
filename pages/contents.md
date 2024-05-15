@@ -11,7 +11,7 @@
 	- [[Apple]]
 	- [[Product]]
 	- [[Reding]]
-	- [[knowledge]]
+	- [[Knowledge]]
 	- [[Productive]]
 	-
 	-
