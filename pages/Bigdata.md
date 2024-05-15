@@ -1,10 +1,12 @@
 #### [[Databases]] List  -> All in [[Databases]]
 	- {{query type }}
 -
-- [[数据集成]] -> ETL  中的 E（Extract）意为
+- [[数据集成]] -> ETL  中的 E（Extract）意为：抽取
 	- alias:: Data Integration
 	  type:: Extract
 	  category:: Data Integration
+-
+-
 - [[数据计算]]
 	- [[Apache Flink]]
 	- [[Apache Spark]]
