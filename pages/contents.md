@@ -3,7 +3,6 @@
 		- [[DCMM]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[信息化项目管理]]
 	- [[Language]]
 -
 - ### Resources
