@@ -7,7 +7,8 @@
 	- [[Grass]]
 	- [[Digital Nomad Village]]
 	- [[DCMM]]
-	- [[Language]]
+	- [[Language Studies]]
+	-
 	-
 	-
 - ### [[Resources]]
