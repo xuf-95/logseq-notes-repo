@@ -1,3 +1,6 @@
+#### [[Databases]] List  ->
+	- {{query type }}
+-
 - [[数据计算]]
 	- [[Apache Flink]]
 	- [[Apache Spark]]
@@ -5,8 +8,6 @@
 -
 -
 -
-- #### [[Databases]] List
-	- {{query type }}
 -
 	- [[数据存储]]
 	- Alias:: 数据库
