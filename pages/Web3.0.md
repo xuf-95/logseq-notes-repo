@@ -14,7 +14,7 @@
 	-
 	-
 - ### Commiunity
-	- [uncommons](https://uncommons.notion.site/Uncommons-04ea0224d3cd4fe9b5181b6dd22d02b4) - Notion
+	- [uncommons](https://uncommons.notion.site/Uncommons-04ea0224d3cd4fe9b5181b6dd22d02b4) - [[Notion]]
 	-
 - ### Books
 	- [[自由：不治之症]]
