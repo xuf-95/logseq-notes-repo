@@ -8,7 +8,7 @@
 	- category:: [[Database]]
 	  sub-category:: [[Data Store]]
 	- #### [[Databases]] List
-		- {{query }}
+		- {{query type }}
 	- [[MySQL]]
 		- type: Database 
 		  [[Language]]: [[CPP]]
