@@ -8,6 +8,7 @@
 	- category:: [[Databases]]
 	  sub-category:: [[Data Store]]
 	- [[Hive]]
+		-
 	- [[KuDu]]
 	-
 	-
