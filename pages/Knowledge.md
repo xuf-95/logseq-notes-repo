@@ -9,9 +9,10 @@
   desc: 实现通用人工智能
   publish at: 20230426
 - 中文Newsletter导航
-  tag : Notion
+  [[tag]] : [[Notion]]
   url:
 - 中文Newsletter导航
-  他给：
+  [[tag]]: [[Notion]]
+  urlm
 -
 -
