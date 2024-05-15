@@ -28,4 +28,3 @@
 	- [[Year Summarize]]
 	- [[FAQ]]
 -
-- {{query }}
