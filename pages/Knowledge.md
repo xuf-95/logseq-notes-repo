@@ -1,8 +1,10 @@
-- 产品沉思录
-  [[tag]]: Resources
-  url: https: https//pmthinking.com/ 
-  desc: 
-  publish at: 2017年
+[[tag]]:: Resources
+url:: https: https//pmthinking.com/ 
+desc:: 
+publish at:: 2017年
+
+-
+-
 -
 - 通往AIGC之路
   [[tag]]: [[AIGC]]
