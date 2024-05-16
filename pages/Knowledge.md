@@ -1,8 +1,9 @@
 [[tag]]:: [[Resources]] 
-url:: https: https//pmthinking.com/ 
+url:: [产品沉思录]( https: https//pmthinking.com/ ) 
 desc:: 
 publish at:: 2017年
 
+-
 -
 -
 -
