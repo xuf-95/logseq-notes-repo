@@ -6,4 +6,5 @@
    把每一天当成人生的最后一天，你终会找到人生的方向
 - > you are already naked.
 - > Stay Hunger, stay foolish
+- ![](https://pmthinking.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8a98677d-9613-428b-b0b2-8ac71e0ab070%2FUntitled.png?table=block&id=f9a5257a-25ee-4564-9463-768cddcd1c1b&spaceId=478cc3df-0136-46de-944c-45467b5e8847&width=960&userId=&cache=v2)
 -
