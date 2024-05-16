@@ -1,5 +1,5 @@
 -
-- The first story is about connecting the dots.
+- ### The first story is about connecting the dots.
 - ### Second story is about my love and loss.
 - ### My third is about death.
   
