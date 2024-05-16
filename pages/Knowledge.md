@@ -1,4 +1,4 @@
-[[tag]]:: Resources
+[[tag]]:: [[Resources]] 
 url:: https: https//pmthinking.com/ 
 desc:: 
 publish at:: 2017年
