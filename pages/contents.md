@@ -1,11 +1,11 @@
-### [[Area]]
+### Area
 	- [[AIGC]]
 	- [[Bigdata]]
 	- [[Web3.0]]
 	- [[Digaital Garden]]
 	- [[Second Brain]]
 	-
-- ### [[Project]]
+- ### Project
 	- [[Grass]]
 	- [[Digital Nomad Village]]
 	- [[DCMM]]
