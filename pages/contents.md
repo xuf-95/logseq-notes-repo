@@ -5,7 +5,8 @@
 	- [[Digaital Garden]]
 	- [[Second Brain]]
 	-
-- ### Project
+	-
+- ### [[Project]]
 	- [[Grass]]
 	- [[Digital Nomad Village]]
 	- [[DCMM]]
