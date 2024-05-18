@@ -6,3 +6,8 @@
   :AGENDA:
   estimated: 1h
   :END:
+- TODO 优化天星村详情页面内容
+  SCHEDULED: <2024-05-19 Sun>
+  :AGENDA:
+  estimated: 30m
+  :END:
