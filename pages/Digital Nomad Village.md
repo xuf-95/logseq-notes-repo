@@ -11,3 +11,8 @@
   :AGENDA:
   estimated: 30m
   :END:
+- TODO 游玩攻略详情页的设计及首页视图的展示
+  SCHEDULED: <2024-05-19 Sun>
+  :AGENDA:
+  estimated: 1h
+  :END:
