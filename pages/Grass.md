@@ -5,5 +5,5 @@
 	- [招聘信息](https://wellfound.com/company/wynd-nework/jobs)
 -
 - ### [[FAQ]]
-	-
+	- 如何防止服务器因费用问题自动停机？
 -
