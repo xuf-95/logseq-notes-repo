@@ -6,5 +6,8 @@
 -
 - ### [[FAQ]]
 	- 如何防止DogYun服务器因费用问题自动停机？
-	- 如何解决IP Disconnect
+		-
+	- **如何解决IP Disconnect 问题？**
+	  id:: 6648cbe5-5717-4af6-ae0f-9ba2c148d5c7
+	-
 -
