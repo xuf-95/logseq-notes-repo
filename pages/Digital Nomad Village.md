@@ -16,3 +16,8 @@
   :AGENDA:
   estimated: 1h
   :END:
+- TODO 数据库设计ER图设计
+  SCHEDULED: <2024-05-19 Sun>
+  :AGENDA:
+  estimated: 30m
+  :END:
