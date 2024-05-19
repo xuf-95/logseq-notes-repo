@@ -3,5 +3,3 @@
 - [[Web3.0]]
 - [[Digaital Garden]]
 - [[Second Brain]]
-- [[Digaital Garden]]
-- [[Second Brain]]
