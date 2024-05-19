@@ -4,7 +4,6 @@
 -
 -
 -
--
 - [[Obsidian]]
 	- type:: [[Product]] 
 	  url:: 
