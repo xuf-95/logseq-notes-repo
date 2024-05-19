@@ -1,6 +1,5 @@
-### [[Project]]
+- Project List
 	- [[Grass]]
-		- https://app.getgrass.io/
 	-
 	-
 - ### Bitcoin
