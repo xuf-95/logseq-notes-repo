@@ -12,7 +12,7 @@
 	-
 	-
 -
-- TODO 检查完S6-S25日志
+- DONE 检查完S6-S25日志
   SCHEDULED: <2024-05-19 Sun>
   :AGENDA:
   estimated: 1h30m
