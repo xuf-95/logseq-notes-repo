@@ -35,3 +35,8 @@
   :AGENDA:
   estimated: 45m
   :END:
+- TODO 和DNβ主理人面谈下或者举办个分享会
+  SCHEDULED: <2024-05-20 Mon>
+  :AGENDA:
+  estimated: 1h
+  :END:
