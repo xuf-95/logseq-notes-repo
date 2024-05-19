@@ -17,3 +17,8 @@
   :AGENDA:
   estimated: 1h30m
   :END:
+- TODO 解决个人服务器环境问题
+  SCHEDULED: <2024-05-20 Mon>
+  :AGENDA:
+  estimated: 30m
+  :END:
