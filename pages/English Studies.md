@@ -1,6 +1,7 @@
 Alias:: EN
+tag:: Language
 
-- tag:: Language
+-
 - [[Words]]
 - [[Article]]
 - [[Github [[English Studies]] Resource]]
