@@ -40,7 +40,7 @@
   :AGENDA:
   estimated: 1h
   :END:
-- TODO 完成用户提交表单的收集
+- TODO 完成用户提交表单的收集并将数据自动化集成到Notion中
   SCHEDULED: <2024-05-20 Mon>
   :AGENDA:
   estimated: 30m
