@@ -35,11 +35,6 @@
   :AGENDA:
   estimated: 45m
   :END:
-- TODO 和DNβ主理人面谈下或者举办个分享会
-  SCHEDULED: <2024-05-20 Mon>
-  :AGENDA:
-  estimated: 1h
-  :END:
 - TODO 完成用户提交表单的收集并将数据自动化集成到Notion中
   SCHEDULED: <2024-05-20 Mon>
   :AGENDA:
