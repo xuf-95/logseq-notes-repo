@@ -1,4 +1,5 @@
-- {query {:[[title]] ["Tasks for next 7 days"]
+- {:[[title]] ["Tasks for next 7 days"]
+  id:: 6617ffcd-b3ea-44b5-9945-be95efb496dc
    :query [:find (pull ?block [*])
        :in $ ?start ?next
        :where
@@ -12,7 +13,9 @@
    :inputs [:today :+7d]
    :result-transform :add-task-attrs
    :collapsed? false
-  }}
+  }
+-
+-
 -
 -
 -
