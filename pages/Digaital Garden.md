@@ -21,3 +21,8 @@
 	  Status::  ACTIVE
 	  About:: Person Info、Collection Internet Resouce、Media Record
 -
+- TODO 完成个人博客网站的搭建
+  SCHEDULED: <2024-05-25 Sat>
+  :AGENDA:
+  estimated: 30m
+  :END:
