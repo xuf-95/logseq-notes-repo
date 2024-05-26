@@ -1,4 +1,6 @@
-- tags: quer
+- tags: query
+  alias::
+-
 - Referal
   collapsed:: true
 	- https://logseq.pro/#/page/queries
