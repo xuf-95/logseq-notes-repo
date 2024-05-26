@@ -92,10 +92,14 @@
 			  }
 			  #+END_QUERY
 	- 去年今日
-		- Code
+		- code
+		  collapsed:: true
 			- ```apl
 			  {{query (between -1y -1y )}}
 			  ```
+		- eg
+			- {{query (between -1y -1y )}}
+			  collapsed:: true
 			-
 -
 -
