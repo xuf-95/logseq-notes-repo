@@ -42,6 +42,7 @@
 	  :inputs [ ".*logseq.*" ]
 	  }
 	  #+END_QUERY
+	-
 -
 -
 -
