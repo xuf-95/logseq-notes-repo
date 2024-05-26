@@ -1,2 +1,6 @@
 tags:: query, cmd, guide
-alias
+alias:: query
+
+-
+-
+-
