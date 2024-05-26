@@ -2,6 +2,7 @@ tags:: knowledge
 alias:: 知识库
 
 -
+- [[Queries]]
 -
 -
 - Referal
