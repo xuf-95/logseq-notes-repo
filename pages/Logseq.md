@@ -4,7 +4,8 @@ alias:: 知识库
 -
 - [[Queries]]
 - [[resource]]
-	- https://logseq.pro/#/page/logseq
+	- https://logseq.pro/#/page/logseq  -- [[Logseq]] Pro’s Best Practice
+	- https://logseq.abosen.top/#/page/README
 	-
 -
 - Referal
