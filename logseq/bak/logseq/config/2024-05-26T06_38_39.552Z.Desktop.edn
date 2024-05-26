@@ -421,4 +421,8 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :ui/show-brackets? false
- :graph/settings {:journal? true}}
+ :graph/settings {:journal? false
+ :excluded-pages? false
+ :orphan-pages? true}
+ :graph/forcesettings {:charge-strength -800
+ :charge-range 1700}}
