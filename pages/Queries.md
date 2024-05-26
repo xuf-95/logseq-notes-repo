@@ -1,6 +1,7 @@
-tags:: query, cmd, guide
+tags:: logseq, cmd, guide
 alias:: query
 
+-
 -
 -
 -
