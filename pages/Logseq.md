@@ -42,7 +42,28 @@
 	  :inputs [ ".*logseq.*" ]
 	  }
 	  #+END_QUERY
-	-
+-
+- #+BEGIN_QUERY
+  {:title "All page tags start with"
+  :query [:find ?tag-name
+  	  :in $ ?prefix ?max-len
+        :where
+        [?tag :block/name ?tag-name]
+        [(clojure.string/starts-with? ?tag-name ?prefix)]
+        [(count ?tag-name) ?len]
+        [(< ?len ?max-len)]
+  ]
+   :result-transform (fn [result]
+                              (sort-by identity result))
+  :view (fn [tags]
+        [:div
+         (for [tag (flatten tags)]
+           [:a.tag.mr-1 {:href (str "#/page/" tag)}
+            (str "#" tag)])])
+  :inputs [ "project" 20]
+  }
+  #+END_QUERY
+-
 -
 -
 -
