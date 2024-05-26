@@ -421,6 +421,6 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :ui/show-brackets? false
- :graph/settings {:journal? false
+ :graph/settings {:journal? true
  :excluded-pages? false
- :orphan-pages? true}}
+ :orphan-pages? false}}
