@@ -4,6 +4,7 @@
 	- ![logseq下基于联系的笔记模式.png](../assets/logseq下基于联系的笔记模式_1712107068855_0.png)
 -
 - ### Query Cmd
+  collapsed:: true
 	- Query all page `tags`
 	  id:: 6652dc76-3a01-4a7d-9ba6-2a46f1387ed6
 	  query-properties:: [:block]
