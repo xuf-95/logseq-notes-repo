@@ -11,7 +11,7 @@
 	- Query all page `tags`
 	  id:: 6652dc76-3a01-4a7d-9ba6-2a46f1387ed6
 	  query-properties:: [:block]
-		- Code
+		- code
 		  collapsed:: true
 			- ```apl
 			  #+BEGIN_QUERY
@@ -96,8 +96,7 @@
 			- ```apl
 			  {{query (between -1y -1y )}}
 			  ```
-			- ```scheme
-			  ```
+			-
 -
 -
 -
