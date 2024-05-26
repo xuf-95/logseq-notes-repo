@@ -423,4 +423,5 @@
  :ui/show-brackets? false
  :graph/settings {:journal? false
  :excluded-pages? false
- :orphan-pages? true}}
+ :orphan-pages? true}
+ :graph/forcesettings {:charge-strength 700}}
