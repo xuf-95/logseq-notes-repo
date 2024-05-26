@@ -1,5 +1,6 @@
-- tags: query
-  alias::
+tags:: query
+alias::
+
 -
 - Referal
   collapsed:: true
