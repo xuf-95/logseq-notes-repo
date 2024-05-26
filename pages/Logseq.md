@@ -7,7 +7,8 @@
 	- https://logseq.pro/#/page/queries
 - ![logseq下基于联系的笔记模式.png](../assets/logseq下基于联系的笔记模式_1712107068855_0.png)
 -
-- #+BEGIN_QUERY
+- query-properties:: [:block]
+  #+BEGIN_QUERY
   {:title "All page tags"
   :query [:find ?tag-name
       :where
