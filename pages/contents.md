@@ -11,7 +11,7 @@
 	- [[DCMM]]
 	- [[English Studies]]
 	-
-- ### [[Resources]]
+- [[Resources]]
 	- [[Knowledge]]
 	- [[Reding]]
 	- [[Tutorial]]
