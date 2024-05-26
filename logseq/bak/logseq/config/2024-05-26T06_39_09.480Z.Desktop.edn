@@ -425,4 +425,4 @@
  :excluded-pages? false
  :orphan-pages? true}
  :graph/forcesettings {:charge-strength -800
- :charge-range 1700}}
+ :charge-range 800}}
