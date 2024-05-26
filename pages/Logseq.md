@@ -98,7 +98,7 @@
 			  {{query (between -1y -1y )}}
 			  ```
 		- eg
-			- {{query (between -1y -1y )}}
+			- {{query (between -1y - 1y )}}
 			  collapsed:: true
 			-
 -
