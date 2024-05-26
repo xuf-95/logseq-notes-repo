@@ -427,4 +427,5 @@
  :builtin-pages? false}
  :graph/forcesettings {:charge-strength -800
  :charge-range 1400
- :link-dist 110}}
+ :link-dist 110}
+ :editor/logical-outdenting? true}
