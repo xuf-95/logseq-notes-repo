@@ -6,7 +6,7 @@
 - ### Binian
 - ### Tutroial
 - ### Knowledge
-	- [btcdayu](https://btcdayu.gitbook.io/dayu) #Knowledge --
+	- [btcdayu](https://btcdayu.gitbook.io/dayu) #Knowledge
 	-
 	-
 - ### Commiunity
