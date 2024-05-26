@@ -1,6 +1,8 @@
-tags:: query
-alias::
+tags:: knowledge
+alias:: 知识库
 
+-
+-
 -
 - Referal
   collapsed:: true
