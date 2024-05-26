@@ -1,6 +1,6 @@
 ### Query Cmd
 	- ```scheme
-	  去年今日：
+	  去年今日：{{query (between -1y -1y )}}
 	  
 	  ```
 - Referal
@@ -93,7 +93,11 @@
 			  #+END_QUERY
 	- 去年今日
 		- Code
-			-
+			- ```apl
+			  {{query (between -1y -1y )}}
+			  ```
+			- ```scheme
+			  ```
 -
 -
 -
