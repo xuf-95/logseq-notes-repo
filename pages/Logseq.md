@@ -1,6 +1,6 @@
 ### Query Cmd
 	- ```scheme
-	  去年今日：{{query (between -1y -1y )}}
+	  去年今日：
 	  
 	  ```
 - Referal
@@ -29,6 +29,7 @@
 		  #+END_QUERY
 		  ```
 	- eg
+	  collapsed:: true
 		- collapsed:: true
 		  #+BEGIN_QUERY
 		  {:title "All page tags"
