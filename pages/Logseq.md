@@ -3,7 +3,9 @@ alias:: 知识库
 
 -
 - [[Queries]]
--
+- [[resource]]
+	- https://logseq.pro/#/page/logseq
+	-
 -
 - Referal
   collapsed:: true
