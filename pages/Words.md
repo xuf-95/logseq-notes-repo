@@ -19,5 +19,7 @@
 	- 恶意的
 - ON-DEMAND #card
 	- 按需
+- individual #card
+	- 个人的，
 -
 -
