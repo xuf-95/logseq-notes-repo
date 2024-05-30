@@ -20,6 +20,6 @@
 - ON-DEMAND #card
 	- 按需
 - individual #card
-	- 个人的，
+	- 个人的，个别的
 -
 -
