@@ -11,7 +11,7 @@
 	- [[English Studies]]
 	-
 - [[Resources]]
-	-
+	- [[Research]]
 	- [[Knowledge]]
 	- [[What I Reading]]
 	- [[Tutorial]]
