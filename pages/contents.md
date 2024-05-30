@@ -1,5 +1,4 @@
 - [[Area]]
-	- [[Bigdata]]
 	- [[Web3.0]]
 	- [[Digaital Garden]]
 	-
@@ -21,6 +20,9 @@
 	-
 - ### Miscellaneous
 	- [[Roadmap]]
+		- [[Bigdata]]
+	- [[Archive]]
+	-
 	-
 - ### [[Dashboard]]
 	- [[Journals]]
