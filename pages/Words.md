@@ -22,5 +22,6 @@
 - individual #card
 	- 个人的，个别的
 - investigating #card
-	- 调查
+	- 调查；研究
+-
 -
