@@ -12,7 +12,7 @@
 	-
 - [[Resources]]
 	- [[Knowledge]]
-	- [[Reding]]
+	- [[What I Reading]]
 	- [[Tutorial]]
 	- [[Productive]]
 	- [[Local Tools]]
