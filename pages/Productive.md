@@ -1,2 +1,2 @@
 - [prisma](https://www.prisma.io/) - The [Console](http://console.prisma.io/) enables you to manage and configure your projects that use Prisma Data Platform (PDP) products, and helps you integrate them into your application
--
+- [indiehackers](https://www.indiehackers.site/en/group/new)
