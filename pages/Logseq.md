@@ -20,7 +20,6 @@ alias:: 知识库
 	  id:: 6652dc76-3a01-4a7d-9ba6-2a46f1387ed6
 	  query-properties:: [:block]
 		- code
-		  collapsed:: true
 			- ```apl
 			  #+BEGIN_QUERY
 			  {:title "All page tags"
