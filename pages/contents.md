@@ -2,7 +2,6 @@
 	- [[Web3.0]]
 	- [[Digaital Garden]]
 	-
-	-
 - [[Project]]
 	- [[Grass]]
 	- [[Digital Nomad Village]]
