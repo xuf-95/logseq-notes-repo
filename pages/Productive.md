@@ -1,6 +1,5 @@
 - [prisma](https://www.prisma.io/) - The [Console](http://console.prisma.io/) enables you to manage and configure your projects that use Prisma Data Platform (PDP) products, and helps you integrate them into your application
-- [indiehackers](https://www.indiehackers.site/) - Explore the best products to help you ship your next application faster and better #Developer
--
+- [indiehackers](https://www.indiehackers.site/) - Explore the best products to help you ship your next application faster and better #Developer #website
 - [DrawDB](https://drawdb.vercel.app/) - Build in a weekend Scale to millions #[[Data Model]]
 -
 -
