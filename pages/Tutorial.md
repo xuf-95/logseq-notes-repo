@@ -2,4 +2,5 @@
 	-
 - [[Auto Task]]
 - [[Notion]]
+- [[Obsidian]]
 -
