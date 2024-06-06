@@ -429,4 +429,5 @@
  :charge-range 1400
  :link-dist 110}
  :editor/logical-outdenting? true
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :feature/enable-journals? false}
