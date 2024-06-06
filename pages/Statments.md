@@ -7,4 +7,6 @@
 - 自律给人自由这句话说反了，应该是自由给人自律。
 - 让事情迭代更容易
 - 多智能体 = 智能体 + 环境 + 标准流程（SOP） + 通信 + 经济
-- A ship in harbor is safe, but that is not what ships are built for. 停泊在港口的船是安全的，但这并不是造船的目的。
+- A ship in harbor is safe, but that is not what ships are built for. 
+  停泊在港口的船是安全的，但这并不是造船的目的。
+- 一个系统再难用，或者长期在一个体制内，习惯后就没法看到其不足。要警惕被习惯化
