@@ -1,3 +1,5 @@
 - [[Logseq]]
 	-
+- [[Auto Task]]
+- [[Notion]]
 -
