@@ -10,3 +10,4 @@
 - A ship in harbor is safe, but that is not what ships are built for. 
   停泊在港口的船是安全的，但这并不是造船的目的。
 - 一个系统再难用，或者长期在一个体制内，习惯后就没法看到其不足。要警惕被习惯化
+- 职业规划是为少数人准备的，他们希望付出最少的努力，还想追求最大收益的人设计的<!-- notionvc: 1a7f414e-b09c-445d-ba1a-2781f90a5e2d -->
