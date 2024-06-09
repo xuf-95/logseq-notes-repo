@@ -1,0 +1,98 @@
+{:blocks (
+{:block/created-at 1717921229629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [264 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "2031ca20-2639-11ef-9e60-3dbecc082498"
+:fontWeight 400
+:noFill false
+:point [136 128]
+:fontSize 20
+:parentId "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:nonce 1717921226841
+:italic false}}
+:block/updated-at 1717921229629} 
+{:block/content "[[Logseq]]://graph/logseq-notes-repo?page=Jun%207th%2C%202024"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/parent 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/properties 
+{}
+:block/uuid #uuid "666565ea-3aa0-460c-9485-52195a77b826"} 
+{:block/content "[[Logseq]]://graph/logseq-notes-repo?page=Jun%207th%2C%202024"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "666565ea-3aa0-460c-9485-52195a77b826"}
+:block/parent 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/properties 
+{}
+:block/uuid #uuid "6665660b-5456-4188-8390-f8c49cc33144"} 
+{:block/created-at 1717921315777
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "6665660b-5456-4188-8390-f8c49cc33144"
+:scaleLevel "sm"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 132.799986104249]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "468b4b60-2639-11ef-9e60-3dbecc082498"
+:noFill false
+:isLocked false
+:point [-240 -32]
+:parentId "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:collapsedHeight 0
+:nonce 1717921291140}}
+:block/updated-at 1717921315777} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6665660b-5456-4188-8390-f8c49cc33144"}
+:block/parent 
+{:block/uuid #uuid "6665660b-5456-4188-8390-f8c49cc33144"}
+:block/properties 
+{}
+:block/uuid #uuid "66656623-b6a4-4859-be5c-c7c8be50ef5b"})
+:pages (
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:name "journal template"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("2031ca20-2639-11ef-9e60-3dbecc082498" "468b4b60-2639-11ef-9e60-3dbecc082498")}}
+:block/updated-at 1717921315848
+:block/created-at 1717921149107
+:block/type "whiteboard"
+:block/name "journal template"
+:block/original-name "journal template"})}
