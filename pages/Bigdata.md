@@ -8,9 +8,6 @@
 -
 -
 - [[数据计算]]
-	- [[Apache Flink]]
-	- [[Apache Spark]]
-	- [[Apache Hive]]
 -
 -
 -
