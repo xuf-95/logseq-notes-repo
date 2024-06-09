@@ -3,6 +3,6 @@ tag:: cmd
 - 完全匹配
 	- 搜索的关键词加上双引号。eg： "xx"
 - `site:`   在特定网站搜索
-	-
+	- **site:github.comreact**
 	-
 	-
