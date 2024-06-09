@@ -50,7 +50,7 @@
 :nonce 1712851326315
 :italic false}}
 :block/updated-at 1712851597773} 
-{:block/created-at 1712851597777
+{:block/created-at 1717918880137
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -66,7 +66,7 @@
 :id "d7762140-f81c-11ee-b820-cb099f116d96"
 :fontWeight 400
 :noFill true
-:point [361 338.84]
+:point [364 339.89]
 :fontSize 20
 :handles 
 {:start 
@@ -77,14 +77,15 @@
 :end 
 {:id "end"
 :canBind true
-:point [227 79.48]
+:point [224 78.43]
 :bindingId "471c4881-f81d-11ee-b820-cb099f116d96"}}
 :decorations 
-{:end "arrow"}
+{:start nil
+:end "arrow"}
 :parentId "66180969-9d43-478e-b8a3-8bc7a294dd6b"
-:nonce 1712851325771
+:nonce 1712851325774
 :italic false}}
-:block/updated-at 1712851597777} 
+:block/updated-at 1717918880137} 
 {:block/created-at 1712851597777
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -353,7 +354,8 @@
 :nonce 1717918833918
 :italic false}}
 :block/updated-at 1717918853325} 
-{:block/properties 
+{:block/created-at 1717918879613
+:block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
@@ -387,7 +389,7 @@
 :parentId "66180969-9d43-478e-b8a3-8bc7a294dd6b"
 :nonce 1717918868900
 :italic false}}
-:block/updated-at 1717918872002})
+:block/updated-at 1717918879613})
 :pages (
 {:block/uuid #uuid "66180969-9d43-478e-b8a3-8bc7a294dd6b"
 :block/properties 
@@ -503,7 +505,7 @@
 :nonce 1
 :assets []
 :shapes-index ("6cf01f00-f81d-11ee-b820-cb099f116d96" "d149c6f0-f81c-11ee-b820-cb099f116d96" "d775ac10-f81c-11ee-b820-cb099f116d96" "d7762140-f81c-11ee-b820-cb099f116d96" "ecea39d0-f81c-11ee-b820-cb099f116d96" "ecea60e0-f81c-11ee-b820-cb099f116d96" "113e4e20-f81d-11ee-b820-cb099f116d96" "29d66300-f81d-11ee-b820-cb099f116d96" "3b881c62-f81d-11ee-b820-cb099f116d96" "41a3fbf2-f81d-11ee-b820-cb099f116d96" "9d341400-f81d-11ee-b820-cb099f116d96" "8dd21e00-2633-11ef-9e60-3dbecc082498" "a29e36c2-2633-11ef-9e60-3dbecc082498")}}
-:block/updated-at 1717918872002
+:block/updated-at 1717918880145
 :block/created-at 1712851305543
 :block/type "whiteboard"
 :block/name "logseq publish"
