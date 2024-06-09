@@ -14,4 +14,7 @@ tag:: cmd
 -
 - `filetype:` 搜索特定文件类型
 	- ```apl
+	  filetype:<扩展名>
 	  ```
+-
+-
