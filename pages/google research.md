@@ -15,8 +15,12 @@ tag:: cmd
 - `filetype:` 搜索特定文件类型
 	- ```apl
 	  filetype:<扩展名>
+	  pdf
+	  ppt
+	  csv
 	  ```
 -
 - `AFTER:` （在……之后）、   `BEFORE:` （在……之前） 或   `..`   来筛选特定的时间范围
 	- ```apl
+	  React tutorials AFTER:<year>
 	  ```
