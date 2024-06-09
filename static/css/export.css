@@ -1,0 +1,15 @@
+body {
+    background-color: black; /* 设置背景为黑色 */
+    color: green; /* 设置字体颜色为绿色 */
+}
+
+/* 针对特定元素进行样式设置，如果需要的话 */
+h1, h2, h3, h4, h5, h6 {
+    color: green; /* 设置标题字体颜色为绿色 */
+}
+
+a {
+    color: lightgreen; /* 设置链接字体颜色为浅绿色 */
+}
+
+/* 根据需要添加更多的样式规则 */
