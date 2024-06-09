@@ -1,5 +1,4 @@
 - [[Logseq]]
-	-
 - [[Auto Task]]
 - [[Notion]]
 - [[Obsidian]]
