@@ -4,7 +4,7 @@ tag:: Language
 -
 - [[Words]]
 - [[Article]]
-- [[Github [[English Study]] Resource]]
+- [[Github English Study Resource]]
 -
 -
 -
