@@ -1,9 +1,5 @@
-### [[Project]] List
-	- [[Grass]]
-	-
-- ### Bitcoin
+### Bitcoin
 - ### EThereum
-- ### Binian
 - ### Tutroial
 - ### Knowledge
 	- [btcdayu](https://btcdayu.gitbook.io/dayu) #Knowledge
