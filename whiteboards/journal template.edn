@@ -1,0 +1,113 @@
+{:blocks (
+{:block/created-at 1717921229629
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [264 80]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label ""
+:id "2031ca20-2639-11ef-9e60-3dbecc082498"
+:fontWeight 400
+:noFill false
+:point [136 128]
+:fontSize 20
+:parentId "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:nonce 1717921226841
+:italic false}}
+:block/updated-at 1717921229629} 
+{:block/content "logseq://graph/logseq-notes-repo?page=Jun%207th%2C%202024"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/parent 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/uuid #uuid "666565ea-3aa0-460c-9485-52195a77b826"} 
+{:block/created-at 1717921286274
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "666565ea-3aa0-460c-9485-52195a77b826"
+:scaleLevel "sm"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [320 51.99999150815218]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "331dff50-2639-11ef-9e60-3dbecc082498"
+:noFill false
+:isLocked false
+:point [-256 -120]
+:parentId "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:collapsedHeight 0
+:nonce 1717921258680}}
+:block/updated-at 1717921286274} 
+{:block/content "logseq://graph/logseq-notes-repo?page=Jun%207th%2C%202024"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "666565ea-3aa0-460c-9485-52195a77b826"}
+:block/parent 
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"}
+:block/uuid #uuid "6665660b-5456-4188-8390-f8c49cc33144"} 
+{:block/created-at 1717921292564
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "6665660b-5456-4188-8390-f8c49cc33144"
+:scaleLevel "sm"
+:fill ""
+:compact false
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 109.60001370275445]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "468b4b60-2639-11ef-9e60-3dbecc082498"
+:noFill false
+:isLocked false
+:point [-139.2651185770749 -4.725518774703744]
+:parentId "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:collapsedHeight 0
+:nonce 1717921291035}}
+:block/updated-at 1717921292564})
+:pages (
+{:block/uuid #uuid "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "6665657d-6522-4e66-9bfc-6f209d82d88e"
+:name "journal template"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("2031ca20-2639-11ef-9e60-3dbecc082498" "331dff50-2639-11ef-9e60-3dbecc082498" "468b4b60-2639-11ef-9e60-3dbecc082498")}}
+:block/updated-at 1717921292564
+:block/created-at 1717921149107
+:block/type "whiteboard"
+:block/name "journal template"
+:block/original-name "journal template"})}
