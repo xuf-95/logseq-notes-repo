@@ -6,10 +6,7 @@
   publishedat:: 2017年
 -
 - id:: 6652d671-4d9c-47b8-873b-e062a808787d
-- Tag:: [[AIGC]]
-  url:: https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e
-  Desc:: 通往AIGC之路 - 实现通用人工智能
-  Publishedat::  20230426
+-
 - title:: 中文Newsletter导航
   tag:: [[Notion]]
   url:: https://www.notion.so/kfang/Newsletter-68ee46c0a4574f659fb8a873ead438c6?pvs=4\

@@ -5,3 +5,11 @@
 -
 -
 -
+-
+- tag:: [[Resources]]
+  url:: [产品沉思录]( https://pmthinking.com/)
+  desc:: 产品沉思录™ （Product Thinking） 是一个关于产品的知识库，也是一个 Newsletter （邮件组）
+  publishedat:: 2017年
+-
+-
+-
