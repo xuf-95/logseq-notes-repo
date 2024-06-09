@@ -8,6 +8,8 @@ tag:: cmd
 	  ```
 	-
 - `imagesize:` 搜索特定大小的图片
-	-
+	- ```apl
+	    imagesize:500x500
+	  ```
 -
 -
