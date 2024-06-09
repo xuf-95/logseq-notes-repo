@@ -12,7 +12,7 @@
 	- [[English Studies]]
 	-
 - [[Resources]]
-	- [[quickcmd]]
+	- [[QuickCmd]]
 	- [[Knowledge]]
 	- [[What I Reading]]
 	- [[Tutorial]]
