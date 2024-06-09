@@ -12,4 +12,6 @@ tag:: cmd
 	    imagesize:500x500
 	  ```
 -
--
+- `filetype:` 搜索特定文件类型
+	- ```apl
+	  ```
