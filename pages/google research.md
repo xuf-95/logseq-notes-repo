@@ -10,6 +10,7 @@ tag:: cmd
 - `imagesize:` 搜索特定大小的图片
 	- ```apl
 	    imagesize:500x500
+	   
 	  ```
 -
 - `filetype:` 搜索特定文件类型
