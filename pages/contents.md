@@ -1,5 +1,6 @@
 - [[Area]]
 	- [[Web3.0]]
+	- [[AIGC]]
 	- [[Digaital Garden]]
 	-
 	-
