@@ -1,6 +1,8 @@
 - **Hi, I'm XuF**
-	- code
-	- blog
+	- code:
+	- blog:
+	-
+-
 -
 -
 -
