@@ -1,0 +1,20 @@
+### Welcoming Phrase
+	- Welcome everyone. Today's meeting is [[about]] ..
+	- Welcome to today's meeting. These are the issues that we want to talk [[about]]
+	- the purpose of today's meeting is
+	- the meeting today is going to last no more than an hour
+	- welcome to a zoom meeting
+-
+- ### Other Phrases To Start A Meeting
+	- Are we good to stard?
+	- is everybody ready to stard?
+	- Let's get meeting to stard.
+	- Ok. Let's get starded. shall we?
+	- Are we good to go? Let's get starded with the annual report.
+-
+- #### Tell everyone do you want to do
+	- Let me share my screen with you.
+	- Can i share my screent with you.
+	- I'm going to share my screen with you.
+	- Do you want me to make it bigger?
+		- 你想要我放大它么？
