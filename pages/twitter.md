@@ -16,5 +16,8 @@
 	  logseq.order-list-type:: number
 	- xx filetype:link
 	  logseq.order-list-type:: number
-	- xx
+	- xx filetype:[[Video]]
 	  logseq.order-list-type:: number
+- 使用`until`运算符只返回某个日期之前的结果（年-月-日）
+  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
