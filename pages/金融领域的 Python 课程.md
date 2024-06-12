@@ -1,0 +1,2 @@
+- <blockquote class="twitter-tweet"><p lang="zh" dir="ltr">如何利用python搞大钱💰<br>来看一下金融领域五大必修 Python 课程（完全免费）⬇️<br><br>1. 用于财务分析的 Python 和统计<a href="https://t.co/JAGylPFdpl">https://t.co/JAGylPFdpl</a><br>课程结束后，您可以使用 Python 实现以下目标： - 将金融数据导入 pandas Dataframe，并对其进行预处理、保存和可视化 -… <a href="https://t.co/YNTwo0esYJ">pic.twitter.com/YNTwo0esYJ</a></p>&mdash; 知识分享官 (@knowledgefxg) <a href="https://twitter.com/knowledgefxg/status/1783479641476403600?ref_src=twsrc%5Etfw">April 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+-
