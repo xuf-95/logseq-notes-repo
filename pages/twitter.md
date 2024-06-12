@@ -12,3 +12,5 @@
 	  logseq.order-list-type:: number
 - 按查找类型过滤
   logseq.order-list-type:: number
+	- cute dog filetype:image
+	  logseq.order-list-type:: number
