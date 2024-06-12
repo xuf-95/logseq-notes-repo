@@ -1,6 +1,7 @@
 logseq.order-list-type:: number
 > 类似Google [[Research]] 语法
 
+	-
 - 查找某人最受欢迎的推文
   logseq.order-list-type:: number
 	- from:hasantoxr min_faves:1000
