@@ -8,4 +8,7 @@
 	  logseq.order-list-type:: number
 - 搜索精确短语
   logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- 加双引号
+	  logseq.order-list-type:: number
+- 按查找类型过滤
+  logseq.order-list-type:: number
