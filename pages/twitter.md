@@ -1,3 +1,6 @@
+logseq.order-list-type:: number
+> 类似Google [[Research]] 语法
+
 - 查找某人最受欢迎的推文
   logseq.order-list-type:: number
 	- from:hasantoxr min_faves:1000
@@ -31,4 +34,4 @@
 	- ChatGPT since:2023-04-01
 	  logseq.order-list-type:: number
 - logseq.order-list-type:: number
-- > 类似Google Research
+-
