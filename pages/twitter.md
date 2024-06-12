@@ -6,4 +6,6 @@
   logseq.order-list-type:: number
 	- from:hasantoxr min_replies:500
 	  logseq.order-list-type:: number
-- logseq.order-list-type:: number
+- 搜索精确短语
+  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
