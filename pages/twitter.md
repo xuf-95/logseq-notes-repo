@@ -26,4 +26,10 @@
   logseq.order-list-type:: number
 	- from:ihteshamit to:hasantoxr
 	  logseq.order-list-type:: number
+- 使用`since`运算符只返回某个日期之后的结果（年-月-日）
+  logseq.order-list-type:: number
+	- ChatGPT since:2023-04-01
+	  logseq.order-list-type:: number
+- logseq.order-list-type:: number
+- logseq.order-list-type:: number
 - logseq.order-list-type:: number
