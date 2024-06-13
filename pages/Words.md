@@ -30,4 +30,6 @@
 	- 开发票；发货清单
 - As we described above #card
 	- 综上所述
+- It should go without saying that #card
+	- 不言而喻
 	-
