@@ -1,5 +1,5 @@
 - **Hi, I'm XuF**
-	- code:
+	- code: [xuf-95](https://xuf-95.github.io/logseq-notes-repo/#/page/contents)
 	- blog:
 	-
 -
