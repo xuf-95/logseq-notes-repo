@@ -26,6 +26,5 @@
 - ### [[Dashboard]]
 	- [[Journals]]
 	- [[Task]]
-	- [[Year Summarize]]
 	- [[FAQ]]
 -
