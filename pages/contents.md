@@ -11,9 +11,9 @@
 	-
 - [[Project]]
 	- [[Grass]]
-	- [[Digital Nomad Village]]
 	-
-	- [[DAMA]]
+	-
+	-
 	- [[English Studies]]
 	-
 - [[Resources]]
