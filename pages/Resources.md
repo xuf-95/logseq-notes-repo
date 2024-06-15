@@ -1,4 +1,11 @@
 - [[特殊字符]]
 - [[数据集]]
 - [[金融领域的 Python 课程]]
+- [[QuickCmd]]
+- [[Knowledge]]
+- [[What I Reading]]
+- [[Tutorial]]
+- [[Productive]]
+- [[Local Tools]]
+- [[Statments]]
 -
