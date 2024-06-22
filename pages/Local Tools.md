@@ -5,6 +5,6 @@
 - [pdfrea](https://pdfreal.com/) - The Internet's fastest PDF tools. Secure and anonymous. Free of charge.
 - [cloudconvert](https://cloudconvert.com/pdf-to-docx) - CloudConvert is an online file converter. We support nearly all audio, [[Video]], document, ebook, [[Archive]], image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer.
 -
-- ![image.png](../assets/image_1717040335280_0.png)
+-
 -
 -
