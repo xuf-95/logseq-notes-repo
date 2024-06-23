@@ -19,6 +19,8 @@
 -
 - ## AI
 	- ChatGPT
-	- K
+	- Kimi
+	- Devv.ai
+	- Gimini
 -
 -
