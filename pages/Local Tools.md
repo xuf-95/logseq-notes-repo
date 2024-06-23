@@ -16,9 +16,9 @@
 	- Iterm2
 	- Warp
 	- [[PyCharm]]
-	-
-	-
-	-
-	-
+-
+- ## AI
+	- ChatGPT
+	- K
 -
 -
