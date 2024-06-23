@@ -13,5 +13,9 @@
 -
 - ### Coding
 	- Visual Studio Code
+	- Iterm2
+	- Warp
+	-
+	-
 	-
 -
