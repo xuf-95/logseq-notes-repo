@@ -5,7 +5,6 @@
 - [pdfrea](https://pdfreal.com/) - The Internet's fastest PDF tools. Secure and anonymous. Free of charge.
 - [cloudconvert](https://cloudconvert.com/pdf-to-docx) - CloudConvert is an online file converter. We support nearly all audio, [[Video]], document, ebook, [[Archive]], image, spreadsheet, and presentation formats. To get started, use the button below and select files to convert from your computer.
 -
-<<<<<<< HEAD
 - #### Notebook
 	- [[Obsidian]]
 	- Notion
@@ -23,8 +22,5 @@
 	- Kimi
 	- Devv.ai
 	- Gimini
-=======
--
->>>>>>> 3260698d4c7c56b6e6f85b8ce74cdb742a079b0b
 -
 -
