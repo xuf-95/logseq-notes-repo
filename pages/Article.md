@@ -1,3 +1,3 @@
 - [[E0508｜旅游复苏]]
-- [[L3: Please sence a car]]
+- [[L3: Please send me a card]]
 -
