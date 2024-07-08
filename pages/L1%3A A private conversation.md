@@ -1,2 +1,2 @@
-- Last week, i went go to threat. I had a very good site, the play was very interesting,  i didn't enjoy it. A young man and a young woman was siting behind me. They ware talked aloudy. I got very angry. I alomst listing
+- Last week, i went go to threat. I had a very good site, the play was very interesting,  i didn't enjoy it. A young man and a young woman was siting behind me. They ware talked aloudy. I got very angry. I almost listenting. I turned my head,
 -
