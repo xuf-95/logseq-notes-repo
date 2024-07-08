@@ -1,2 +1,2 @@
 - Q:
-- Last week, i went go to threat. I had a very good site, the play was very interesting,  i didn't enjoy it. A young man and a young woman was siting behind me. They ware talking aloudy. I got very angry. I almost listenting. I turned my head, i look a man and a women angry, they are not a pencent. In they end i was very angry, In "Could you laught aloudly, please keep down "
+- Last week, i went go to threat. I had a very good site, the play was very interesting,  i didn't enjoy it. A young man and a young woman was siting behind me. They ware talking aloudy. I got very angry. I almost listenting. I turned my head, i look a man and a women angry, they are not a pencent. In they end i was very angry, "I can't a l" "Could you laught aloudly, please keep down "
