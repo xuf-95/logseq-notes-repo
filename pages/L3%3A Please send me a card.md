@@ -1,1 +1,1 @@
-- how many c
+- how many cards
