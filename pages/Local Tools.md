@@ -2,7 +2,8 @@
 	- [shots](https://shots.so/) - 自定义图片背景、形状
 	- [macosicons](https://macosicons.com/#/) -- free icons for macOS Monterey, Big Sur & iOS <!-- notionvc: c09a9267-5ab3-4fdc-b98a-8721b64f5f4c -->
 	- [react-icons](https://react-icons.github.io/react-icons/) --
-	- [ray.so](https://ray.so/icon) -- Code Images、Icon Maker
+	- [ray.so](https://ray.so/icon) -- Code Images、Icon Maker、Prompts、Snippets、Themes
+	-
 -
 - ### Office
 	- [pdfrea](https://pdfreal.com/) - The Internet's fastest PDF tools. Secure and anonymous. Free of charge.
