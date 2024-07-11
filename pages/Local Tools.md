@@ -7,6 +7,7 @@
 -
 - ### Office
 	- [pdfrea](https://pdfreal.com/) - The Internet's fastest PDF tools. Secure and anonymous. Free of charge.
+	- [PDF布丁](https://github.com/wmjordan/PDFPatcher) --
 -
 - ### Notebook
 	- [vditor](https://vditor.vercel.app) - vditor是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React 和 Angular
