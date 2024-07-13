@@ -3,6 +3,7 @@
 	- [macosicons](https://macosicons.com/#/) -- free icons for macOS Monterey, Big Sur & iOS <!-- notionvc: c09a9267-5ab3-4fdc-b98a-8721b64f5f4c -->
 	- [react-icons](https://react-icons.github.io/react-icons/) --
 	- [ray.so](https://ray.so/icon) -- Code Images、Icon Maker、Prompts、Snippets、Themes
+	- [remove background](http://remove.bg/) -- 可一键移除背景照片、进行拼图
 	-
 	-
 	-
