@@ -23,7 +23,6 @@
 	-
 	-
 - ### [[Dashboard]]
-	- [[Journals]]
 	- [[Task]]
 	- [[FAQ]]
 -
