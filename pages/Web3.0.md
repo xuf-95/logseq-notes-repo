@@ -8,7 +8,7 @@
 - ### Tutroial
 - ### Knowledge
 	- [btcdayu](https://btcdayu.gitbook.io/dayu) #Knowledge
-	- [abetter web3.0](https://abetterweb3.notion.site/abetterweb3-7ce334dcf8524cb79a5894bdd784ddb4) -- web3 行业知识介绍
+	- [abetter web3.0](https://abetterweb3.notion.site/abetterweb3-7ce334dcf8524cb79a5894bdd784ddb4) -- web3 行业知识介绍、招聘、找工作
 	-
 	-
 	-
