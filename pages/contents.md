@@ -7,7 +7,7 @@
 	- [[Web3.0]]
 	- [[AIGC]]
 	- [[English Studies]]
-	-
+	- [[数据架构]]
 	-
 - [[Resources]]
 	- [[QuickCmd]]
