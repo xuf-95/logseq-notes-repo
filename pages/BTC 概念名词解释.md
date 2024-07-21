@@ -1,4 +1,5 @@
 - DAO #card
 	- 区中心化
 - POW #card
+- block reword #card
 -
