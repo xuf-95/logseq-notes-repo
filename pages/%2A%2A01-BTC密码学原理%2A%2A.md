@@ -2,5 +2,6 @@
 - > 加密货币（crpto-currency）中用到的密码学主要是 哈希 和 签名。
 - ## 密码学中的哈希(crptographic hash function)
 	- 所用到的哈希函数主要有2个重要性质
-		- 抗碰撞性：colli s
+		- 抗碰撞性：collision resistance
 		- 不可逆：hiding
+-
