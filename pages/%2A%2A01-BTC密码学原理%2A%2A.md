@@ -4,4 +4,5 @@
 	- 所用到的哈希函数主要有2个重要性质
 		- 抗碰撞性：collision resistance
 		- 不可逆：hiding
--
+	- ### collision resistance
+		-
