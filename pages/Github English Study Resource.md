@@ -2,6 +2,8 @@
 	- About：An advanced [[guide]] to learn [[English]] which might benefit you a lot 🎉
 	- 离谱的我可能属于A1水平，以前为了工作现在为了提升认知和更好的就业机会（For Digital Nomad）
 	- 主要分为几个学习章节：
-		-
+		- 认知篇：
+		- 单词篇：
+		- 听力篇：
 	-
 -
