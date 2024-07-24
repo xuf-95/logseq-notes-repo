@@ -20,8 +20,11 @@
   环绕着世界。--爱因斯坦 (1879-1955)
 - 年轻人应该找事业，而不是找工作，工作应该作为阶段性的任务，整体上服务手自己的长期事业，无论是人脉、资源或者能力等一系列的积累，才能厚积薄发并脱颖而出。     ---- williams
 - 工资，在很多情况下，其实是精神损失费。
-- The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
-  
-  成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。          ---- Stven
-- #### 周国平
+- Stven
+	- The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+	  
+	  成就一番伟业的唯一途径就是热爱自己的事业。如果你还没能找到让自己热爱的事业，继续寻找，不要放弃。跟随自己的心，总有一天你会找到的。 
+	  
+	  ---- 在
+- ### 周国平
 	- 人生有三次成长：一是发现自己不再是世界的中心的时候，二是发现再怎么努力也无能为力的时候，三是接受自己的平凡并去享受平凡的时候。
