@@ -3,8 +3,9 @@
 	- 离谱的我可能属于A1水平，以前为了工作现在为了提升认知和更好的就业机会（For Digital Nomad）
 	- 博主进行了模块化的学习：
 		- 认知篇：
-		-
 		- 单词篇：
+			- [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+			-
 		- 听力篇：
 	-
 -
