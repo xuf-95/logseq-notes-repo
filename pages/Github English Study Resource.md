@@ -5,7 +5,7 @@
 		- 认知篇：
 		- 单词篇：
 			- [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
-			-
+			- [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 		- 听力篇：
 	-
 -
