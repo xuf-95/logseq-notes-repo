@@ -1,4 +1,4 @@
 - [离谱的英语学习指南/英语学习教程。](https://github.com/byoungd/English-level-up-tips/tree/master)
 	- About：An advanced [[guide]] to learn [[English]] which might benefit you a lot 🎉
-	- 离谱的我可能属于A1水平，以前为了
+	- 离谱的我可能属于A1水平，以前为了工作现在为了提升
 -
