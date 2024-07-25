@@ -6,7 +6,7 @@ tag:: Language
 - [[Article]]
 - [[Topic]] -- 场景学习
 - [[Github English Study Resource]]
-- DONE [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
+- LATER [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
   collapsed:: true
   :LOGBOOK:
   CLOCK: [2024-07-25 Thu 11:50:35]--[2024-07-25 Thu 11:50:39] =>  00:00:04
