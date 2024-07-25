@@ -1,5 +1,5 @@
 {:blocks (
-{:block/content "Language Model"
+{:block/content "[[Language]] Model"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66a1bc64-3895-4e10-8251-77e0eda54a69"}
@@ -445,7 +445,7 @@
 :nonce 1
 :assets []
 :shapes-index ("81d43b30-4a30-11ef-8d0f-41b121e5d82f" "8ad400d0-4a30-11ef-8d0f-41b121e5d82f" "90db6e00-4a30-11ef-8d0f-41b121e5d82f" "99fe24f0-4a30-11ef-8d0f-41b121e5d82f" "aa527132-4a30-11ef-8d0f-41b121e5d82f" "bd098ca1-4a30-11ef-8d0f-41b121e5d82f" "dfc0e0e2-4a30-11ef-8d0f-41b121e5d82f" "e6c1a232-4a30-11ef-8d0f-41b121e5d82f" "f1116772-4a30-11ef-8d0f-41b121e5d82f" "00a5bf12-4a31-11ef-8d0f-41b121e5d82f")}}
-:block/updated-at 1721875985544
+:block/updated-at 1721876095047
 :block/created-at 1721875556546
 :block/type "whiteboard"
 :block/name "language model"
