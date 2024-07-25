@@ -5,8 +5,7 @@
 		- 认知篇：
 		- 单词篇：
 			- TODO [如何在六个月内掌握一门外语 | 克利斯•伦戴尔 | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
-				- >
-				- [05:32](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=332s) - How to learn any [[Language]] in six months
+				- > [05:32](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=332s) - How to learn any [[Language]] in six months
 				  [07:59](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=479s) - Principle # 1: Focus on [[Language]] content that is relevant to you
 				  [08:49](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=529s) - Principle # 2: Use your new [[Language]] as a tool to communicate from day 1
 				  [09:37](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=577s) - Principle # 3: When you first understand the message you will unconsciously acquire the [[Language]]
