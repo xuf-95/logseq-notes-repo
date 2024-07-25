@@ -18,7 +18,9 @@
 				  [15:22](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=922s) - Action # 5: Get a [[Language]] parent
 				  [16:29](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=989s) - Action # 6: Copy the face
 				  [17:13](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=1033s) - Action # 7: "Direct connect" to mental images
-				-
+				- [[Language]] Model [MRAM]
+					- M:
+					-
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
