@@ -25,7 +25,9 @@
 					- M: Memory
 					- {{embed [[language model]]}}
 					- 4 Principle:
-						- Fouce on language content that is relevant to you.
+						- Fouce on [[Language]] content that is relevant to you.
+						  聚焦专注和你相关的内容上
+						-
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
