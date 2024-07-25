@@ -27,7 +27,7 @@
 					- 4 Principle:
 						- Fouce on [[Language]] content that is relevant to you.
 						  聚焦专注和你相关的内容上
-						- Use you new language
+						- Use you new language as a tool to communicate
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
