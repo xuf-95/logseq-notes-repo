@@ -43,6 +43,7 @@
 						- what is that?
 						- How do you say?
 						- I don't understand
+						- repeat that pl
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
