@@ -97,14 +97,16 @@
 :collapsedHeight 0
 :nonce 1721875579987}}
 :block/updated-at 1721875580016} 
-{:block/content "Meaning"
+{:block/content "Attention"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "66a1bc7b-99c1-406c-9195-d52228c6e57b"}
 :block/parent 
 {:block/uuid #uuid "66a1bc64-3895-4e10-8251-77e0eda54a69"}
+:block/properties 
+{}
 :block/uuid #uuid "66a1bc7c-e27c-4431-bfe8-b858478532a4"} 
-{:block/created-at 1721875580397
+{:block/created-at 1721875598459
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -130,8 +132,43 @@
 :point [606.3872282608695 178.2092391304348]
 :parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
 :collapsedHeight 0
-:nonce 1721875580368}}
-:block/updated-at 1721875580397})
+:nonce 1721875580370}}
+:block/updated-at 1721875598459} 
+{:block/content "Meaning"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "66a1bc7c-e27c-4431-bfe8-b858478532a4"}
+:block/parent 
+{:block/uuid #uuid "66a1bc64-3895-4e10-8251-77e0eda54a69"}
+:block/uuid #uuid "66a1bc8f-c751-4170-836a-0792bc3c57a6"} 
+{:block/created-at 1721875599953
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "66a1bc8f-c751-4170-836a-0792bc3c57a6"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41.000038599308304]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1e504f40-4a30-11ef-8d0f-41b121e5d82f"
+:noFill false
+:isLocked false
+:point [697.7189970355731 259.4126729249012]
+:parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
+:collapsedHeight 0
+:nonce 1721875599925}}
+:block/updated-at 1721875599953})
 :pages (
 {:block/uuid #uuid "66a1bc64-3895-4e10-8251-77e0eda54a69"
 :block/properties 
@@ -143,8 +180,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("05dbef00-4a30-11ef-8d0f-41b121e5d82f" "0d0ac530-4a30-11ef-8d0f-41b121e5d82f" "126e0320-4a30-11ef-8d0f-41b121e5d82f" "12a825f0-4a30-11ef-8d0f-41b121e5d82f")}}
-:block/updated-at 1721875580397
+:shapes-index ("05dbef00-4a30-11ef-8d0f-41b121e5d82f" "0d0ac530-4a30-11ef-8d0f-41b121e5d82f" "126e0320-4a30-11ef-8d0f-41b121e5d82f" "12a825f0-4a30-11ef-8d0f-41b121e5d82f" "1e504f40-4a30-11ef-8d0f-41b121e5d82f")}}
+:block/updated-at 1721875599953
 :block/created-at 1721875556546
 :block/type "whiteboard"
 :block/name "language model"
