@@ -46,6 +46,7 @@
 						- repeat that please
 						- what does the means?
 					- Week 2-3:
+						- Simple pronouns
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
