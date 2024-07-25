@@ -23,8 +23,6 @@
 					- R: Relating
 					- A: Attention
 					- M: Memory
-					- ![image.png](../assets/image_1721876428140_0.png){:height 402, :width 628}
-					-
 					- {{embed [[language model]]}}
 					-
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
