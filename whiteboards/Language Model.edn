@@ -68,42 +68,13 @@
 :block/properties 
 {}
 :block/uuid #uuid "66a1bca2-d2c4-47fc-b9cb-776aa0ca7bd1"} 
-{:block/created-at 1721875768441
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "B"
-:stroke ""
-:rotation 0
-:collapsed false
-:borderRadius 8
-:index 1
-:scale [1 1]
-:pageId "66a1bca2-d2c4-47fc-b9cb-776aa0ca7bd1"
-:scaleLevel "md"
-:fill ""
-:compact true
-:isAutoResizing true
-:type "logseq-portal"
-:size [128 40.999986490242094]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "579876b0-4a30-11ef-8d0f-41b121e5d82f"
-:noFill false
-:isLocked false
-:point [752 360]
-:parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
-:collapsedHeight 0
-:nonce 1721875618836}}
-:block/updated-at 1721875768441} 
-{:block/created-at 1721875779746
+{:block/created-at 1721875813032
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
 {:stroke ""
 :borderRadius 2
-:index 2
+:index 1
 :scale [1 1]
 :scaleLevel "md"
 :fill ""
@@ -121,8 +92,34 @@
 :parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
 :nonce 1721875766971
 :italic false}}
-:block/updated-at 1721875779746} 
-{:block/created-at 1721875785178
+:block/updated-at 1721875813032} 
+{:block/created-at 1721875813033
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [144 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Attention"
+:id "8ad400d0-4a30-11ef-8d0f-41b121e5d82f"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [432 352]
+:fontSize 20
+:parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
+:nonce 1721875767206
+:italic false}}
+:block/updated-at 1721875813033} 
+{:block/created-at 1721875813033
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -137,17 +134,43 @@
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
-:label "Meaning"
-:id "8ad400d0-4a30-11ef-8d0f-41b121e5d82f"
+:label "Relevance"
+:id "90db6e00-4a30-11ef-8d0f-41b121e5d82f"
 :fontWeight 400
 :noFill false
 :isLocked false
-:point [432 352]
+:point [736 144]
 :fontSize 20
 :parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
-:nonce 1721875767197
+:nonce 1721875767387
 :italic false}}
-:block/updated-at 1721875785178})
+:block/updated-at 1721875813033} 
+{:block/created-at 1721875819416
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [144 48]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "Memory"
+:id "99fe24f0-4a30-11ef-8d0f-41b121e5d82f"
+:fontWeight 400
+:noFill false
+:isLocked false
+:point [744 352]
+:fontSize 20
+:parentId "66a1bc64-3895-4e10-8251-77e0eda54a69"
+:nonce 1721875767472
+:italic false}}
+:block/updated-at 1721875819416})
 :pages (
 {:block/uuid #uuid "66a1bc64-3895-4e10-8251-77e0eda54a69"
 :block/properties 
@@ -159,8 +182,8 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("05dbef00-4a30-11ef-8d0f-41b121e5d82f" "579876b0-4a30-11ef-8d0f-41b121e5d82f" "81d43b30-4a30-11ef-8d0f-41b121e5d82f" "8ad400d0-4a30-11ef-8d0f-41b121e5d82f")}}
-:block/updated-at 1721875785178
+:shapes-index ("05dbef00-4a30-11ef-8d0f-41b121e5d82f" "81d43b30-4a30-11ef-8d0f-41b121e5d82f" "8ad400d0-4a30-11ef-8d0f-41b121e5d82f" "90db6e00-4a30-11ef-8d0f-41b121e5d82f" "99fe24f0-4a30-11ef-8d0f-41b121e5d82f")}}
+:block/updated-at 1721875819416
 :block/created-at 1721875556546
 :block/type "whiteboard"
 :block/name "language model"
