@@ -20,7 +20,7 @@
 				  [17:13](https://www.youtube.com/watch?v=d0yGdNEWdn0&t=1033s) - Action # 7: "Direct connect" to mental images
 				- [[Language]] Model [MRAM]
 					- M: Meaning
-					- R: Relating
+					- R: Relevcan
 					- A: Attention
 					- M: Memory
 					- {{embed [[language model]]}}
