@@ -25,10 +25,11 @@
 					- M: Memory
 					- {{embed [[language model]]}}
 					- 4 Principle:
-						- Fouce on [[Language]] content that is relevant to you.
+						- Principle 1: Fouce on [[Language]] content that is relevant to you.
 						  聚焦专注和你相关的内容上
-						- Use you new language as a tool to communicate from day 1
-						  学语言的
+						- Principle 2：Use you new [[Language]] as a tool to communicate from day 1
+						  学语言的第一天就是把它当作工具来用
+						- Principle 3:
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
 		- 听力篇：
