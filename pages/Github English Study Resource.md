@@ -27,7 +27,7 @@
 					- 4 Principle:
 						- > Principle 1: Fouce on [[Language]] content that is relevant to you.
 						- > Principle 2：Use you new [[Language]] as a tool to communicate from day 1
-						- > Principle 3: When you first understand the message. you will unconsciously acuquire the [[Language]]
+						- > Principle 3: When you first understand the message. you will unconsciously #card acuquire the [[Language]]
 						-
 			- TODO [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
 			-
