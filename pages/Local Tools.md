@@ -25,7 +25,8 @@
 - ### [[English]]
 	- 听力播放器
 	- BookPlayer
-	- [younlish](https://youglish.com/) -- 搜索
+	- [younlish](https://youglish.com/) -- 搜索单词即可查到标准的发音（带视频）
+	-
 -
 - #### Notebook
 	- [[Obsidian]]
