@@ -25,7 +25,7 @@
 - ### [[English]]
 	- 听力播放器
 	- BookPlayer
-	-
+	- [younlish](https://youglish.com/) -- 搜索
 -
 - #### Notebook
 	- [[Obsidian]]
