@@ -7,7 +7,8 @@
 	- [paletee](https://palette.fm/) -- 暗色照片，变彩色
 	- [upscayl](https://upscayl.org/) -- 图片放大或修复图片清晰度
 	- [immich](https://github.com/immich-app/immich) -- Open Source Project：High performance self-hosted photo and [[Video]] management solution.
-	- [Retro Card](https://retro.iwhy.dev/) --
+	- [Retro Card](https://retro.iwhy.dev/) -- 自定义卡片
+	-
 	-
 	-
 	-
