@@ -8,7 +8,7 @@
 	- [upscayl](https://upscayl.org/) -- 图片放大或修复图片清晰度
 	- [immich](https://github.com/immich-app/immich) -- Open Source Project：High performance self-hosted photo and [[Video]] management solution.
 	- [Retro Card](https://retro.iwhy.dev/) -- 自定义卡片
-	- [fummicc](fummicc1.github.io/csv2img/) -- 卡通图案sh
+	- [fummicc](fummicc1.github.io/csv2img/) -- 卡通图案生成
 	-
 	-
 - ## Movies
