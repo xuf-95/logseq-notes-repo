@@ -1,3 +1,5 @@
 - the feasibility of techniques
-	- feasibility
+	- feasibility #card
+		- 可行性
+	-
 -
