@@ -10,7 +10,8 @@
 	- [Retro Card](https://retro.iwhy.dev/) -- 自定义卡片
 	-
 	- ## Movies
-		- [IINA](https://iina.io/)  -- Loacal
+		- [IINA](https://iina.io/)  -- 本地视频播放器
+		-
 		-
 	-
 	-
