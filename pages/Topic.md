@@ -4,4 +4,5 @@
 - [[Food]]
 - [[Frisbee]]
 - [[Bike]]
+- [[tech]]
 -
