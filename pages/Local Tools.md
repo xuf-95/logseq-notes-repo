@@ -9,12 +9,9 @@
 	- [immich](https://github.com/immich-app/immich) -- Open Source Project：High performance self-hosted photo and [[Video]] management solution.
 	- [Retro Card](https://retro.iwhy.dev/) -- 自定义卡片
 	-
-	- ## Movies
-		- [IINA](https://iina.io/)  -- 本地视频播放器
-		-
-		-
 	-
-	-
+- ## Movies
+	- [IINA](https://iina.io/)  -- 本地视频播放器
 	-
 	-
 - ### Office
