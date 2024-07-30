@@ -6,7 +6,7 @@
 - [[Area]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[How To Learn English]] -- 中年程序员苦学英语，
+	- [[How To Learn English]] -- 学习英语，做出海程序员
 	- [[数据架构]]
 	-
 - [[Resources]]
