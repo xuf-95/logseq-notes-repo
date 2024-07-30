@@ -6,7 +6,7 @@
 - [[Area]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[English Study]]
+	- [[How To Learn English]]
 	- [[数据架构]]
 	-
 - [[Resources]]
