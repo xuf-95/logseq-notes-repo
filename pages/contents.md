@@ -6,7 +6,7 @@
 - [[Area]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[How To Learn English]] --
+	- [[How To Learn English]] -- 学习英语的技巧文章、工具
 	- [[数据架构]]
 	-
 - [[Resources]]
