@@ -4,4 +4,4 @@
 - [[DCMM]]
 - [[DAMA]]
 - [[Digital Nomad Village]]
-- [[English Studies]]
+- [[English Study]]
