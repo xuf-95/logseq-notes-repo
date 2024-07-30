@@ -1,7 +1,10 @@
 - [[AIGC]]
 - [[Bigdata]]
-- [[Web3.0]]
 - [[DCMM]]
 - [[DAMA]]
 - [[Digital Nomad Village]]
 - [[How To Learn English]]
+- [[AIGC]]
+- [[How To Learn English]] -- 学习英语，找Remote Jobs
+- [[数据架构]]
+- [[Awesome GitHub]]
