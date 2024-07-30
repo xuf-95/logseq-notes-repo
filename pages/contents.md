@@ -6,7 +6,8 @@
 - [[Area]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[How To Learn English]] -- 学习英语，做出海程序员
+	- [[How To Learn English]] -- 学习英语，找Remote Jobs
+	-
 	- [[数据架构]]
 	-
 - [[Resources]]
