@@ -1,15 +1,3 @@
 {:highlights [{:id #uuid "66aa619e-3ccb-474f-85d4-d47dad5359d0",
-               :properties {:color "yellow"}}
-              {:id #uuid "66aa61d2-242f-4e4b-b13d-29e4b0b05ce6",
-               :page 1,
-               :position {:bounding {:x1 452,
-                                     :y1 386,
-                                     :x2 645,
-                                     :y2 458,
-                                     :width 952.7040000000001,
-                                     :height 1347.84},
-                          :rects (),
-                          :page 1},
-               :content {:text "[:span]", :image 1722442194087},
                :properties {:color "yellow"}}],
- :extra {:page 1}}
+ :extra {:page 3}}
