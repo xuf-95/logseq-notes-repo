@@ -3,7 +3,7 @@
 	- TS：It's my pleasure. Thanks so much for meeting with me.
 	- TK：Of course. Do you have any trouble for finding office.
 	- TS：Nope,
-	- TK：Wo
+	- TK：Ok, to get started, would you like a
 	- LATER TS：
 	- TK：
 	- TS：
