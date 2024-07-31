@@ -19,6 +19,7 @@
 	- [[Productive]]
 	- [[Local Tools]]
 	- [[Statments]]
+	- [[Notion]]
 	-
 	-
 - ### Miscellaneous
