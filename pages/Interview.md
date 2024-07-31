@@ -3,8 +3,8 @@
 	- TS：It's my pleasure. Thanks so much for meeting with me.
 	- TK：Of course. Do you have any trouble for finding office.
 	- TS：Nope,
-	- TK：Would you like drink a water or coffee before begin.
-	- LATER TS：
+	- TK：Would you like some water or coffee before we begin?
+	- LATER TS：No.
 	- TK：Alright. So, to get started. Why don't you tell me a little bit about youself.
 	- TS：
 	- TK：
