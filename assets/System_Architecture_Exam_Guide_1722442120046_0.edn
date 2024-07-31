@@ -1,1 +1,3 @@
-{:highlights [], :extra {:page 2}}
+{:highlights [{:id #uuid "66aa619e-3ccb-474f-85d4-d47dad5359d0",
+               :properties {:color "yellow"}}],
+ :extra {:page 3}}
