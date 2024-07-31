@@ -1,7 +1,7 @@
 #### [[English]] Job Interview Dos & Dont's! | [[English]] Conversation Practice
 	- TK：Hello Ms Smith , I'm Tom kelley. Thanks so much for coming in.
-	- TS：It's my pleasure. Thanks so much for meeting with me
-	- TK：
+	- TS：It's my pleasure. Thanks so much for meeting with me.
+	- TK：Of course.
 	- TS：
 	- TK：
 	- LATER TS：
