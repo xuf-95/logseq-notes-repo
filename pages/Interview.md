@@ -4,7 +4,7 @@
 	- TK：Of course. Do you have any trouble for finding office.
 	- TS：Nope,
 	- TK：Would you like some water or coffee before we begin?
-	- LATER TS：No.
+	- LATER TS：I'm ok, thanks you.
 	- TK：Alright. So, to get started. Why don't you tell me a little bit about youself.
 	- TS：
 	- TK：
