@@ -5,7 +5,7 @@
 	- TS：Nope,
 	- TK：Would you like drink a water or coffee before begin.
 	- LATER TS：
-	- TK：Alright. So, to get started, why don't you tell me about a litter
+	- TK：Alright. So, to get started, why don't you tell me a litter about youself.
 	- TS：
 	- TK：
 	- TS：
