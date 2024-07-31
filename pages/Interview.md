@@ -1,12 +1,13 @@
 #### [[English]] Job Interview Dos & Dont's! | [[English]] Conversation Practice
 	- TK：Hello Ms Smith , I'm Tom kelley. Thanks so much for coming in.
-	- TS：It's my pleasure. Thanks so much for meeting with me.
+	- TS：It's my pleasure. Thanks so much for [[Meeting]] with me.
 	- TK：Of course. Do you have any trouble for finding office.
 	- TS：Nope,
 	- TK：Would you like some water or coffee before we begin?
 	- TS：I'm ok, thanks you.
-	- TK：Alright. So, to get started. Why don't you tell me a little bit about youself.
-	- TS：Sure, I'm studied at the University of Florida and graduated in 2010 with a Masters Degree in toy design. After graduation, I was hired at Happy'kid create
+	- TK：Alright. So, to get started. Why don't you tell me a little bit [[about]] youself.
+	- TS：Sure, I'm studied at the University of Florida and graduated in 2010 with a Masters Degree in toy design. After graduation, I was hired at Happy'kid creative.
+	-
 	- TK：
 	- TS：
 	- TK：
