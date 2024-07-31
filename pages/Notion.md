@@ -1,3 +1,5 @@
 - [[Notion Template]]
--
+	- [[url]]: https://redgregory.notion.site/Notion-Templates-9f70342ee1e040b394b55c9354e1cb79
+	-
+	-
 -
