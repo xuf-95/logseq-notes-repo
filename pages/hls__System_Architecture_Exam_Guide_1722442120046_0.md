@@ -7,4 +7,4 @@ file-path:: ../assets/System_Architecture_Exam_Guide_1722442120046_0.pdf
   hl-color:: red
   id:: 66aa6206-af82-48df-9d08-92b6653a1bde
   hl-type:: area
-  hl-stamp:: 1722442245483
+  hl-stamp:: 1722442321185
