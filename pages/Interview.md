@@ -3,9 +3,9 @@
 	- TS：It's my pleasure. Thanks so much for meeting with me.
 	- TK：Of course. Do you have any trouble for finding office.
 	- TS：Nope,
-	- TK：would you like drink a water or coffee before begin.
+	- TK：Would you like drink a water or coffee before begin.
 	- LATER TS：
-	- TK：
+	- TK：Alright. So, to get started, why don't you tell me about a litter
 	- TS：
 	- TK：
 	- TS：
