@@ -2,14 +2,14 @@
                :properties {:color "yellow"}}
               {:id #uuid "66aa6206-af82-48df-9d08-92b6653a1bde",
                :page 3,
-               :position {:bounding {:x1 180,
-                                     :y1 669,
-                                     :x2 883,
-                                     :y2 738,
-                                     :width 952.7040000000001,
-                                     :height 1347.84},
+               :position {:bounding {:x1 187.5,
+                                     :y1 696.875,
+                                     :x2 656.1640625,
+                                     :y2 734.2421875,
+                                     :width 635.1360000000001,
+                                     :height 898.56},
                           :rects (),
                           :page 3},
-               :content {:text "[:span]", :image 1722442245483},
+               :content {:text "[:span]", :image 1722442321185},
                :properties {:color "red"}}],
- :extra {:page 3}}
+ :extra {:page 8}}
