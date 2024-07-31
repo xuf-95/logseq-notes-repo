@@ -6,7 +6,7 @@
 	- TK：Would you like some water or coffee before we begin?
 	- TS：I'm ok, thanks you.
 	- TK：Alright. So, to get started. Why don't you tell me a little bit about youself.
-	- TS：Sure, I'm studied at the University of Florda in 2010 graduated in
+	- TS：Sure, I'm studied at the University of Florda and graduated in 2010
 	- TK：
 	- TS：
 	- TK：
