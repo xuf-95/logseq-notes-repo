@@ -1,5 +1,5 @@
 #### [[English]] Job Interview Dos & Dont's! | [[English]] Conversation Practice
-	- TK：Hello Mrs Smith , I'm Tom kelley. Tb
+	- TK：Hello Mrs Smith , I'm Tom kelley. Thanks so much forcoming in
 	- TS：
 	- TK：
 	- TS：
