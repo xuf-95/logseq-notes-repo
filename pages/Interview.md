@@ -2,8 +2,8 @@
 	- TK：Hello Ms Smith , I'm Tom kelley. Thanks so much for coming in.
 	- TS：It's my pleasure. Thanks so much for meeting with me.
 	- TK：Of course. Do you have any trouble for finding office.
-	- TS：
-	- TK：
+	- TS：Nope,
+	- TK：Wo
 	- LATER TS：
 	- TK：
 	- TS：
