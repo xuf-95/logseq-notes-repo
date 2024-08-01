@@ -2,7 +2,8 @@
 - [indiehackers](https://www.indiehackers.site/) - Explore the best products to help you ship your next application faster and better #Developer #website
 - [DrawDB](https://drawdb.vercel.app/) - Build in a weekend Scale to millions #[[Data Model]]
 - [background-snippet](https://bg.ibelick.com/) -Modern background snippets: copy, paste, ready-to-use
-- [jsoncv](https://jsoncv.reorx.com/editor/) -- 配置json，实时生成简历。可
+- [jsoncv](https://jsoncv.reorx.com/editor/) -- 配置json，实时生成简历。可导出Json、PDF、HTML等格式
+-
 -
 -
 -
