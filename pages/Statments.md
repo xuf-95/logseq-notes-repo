@@ -34,4 +34,15 @@
 		- 二是发现再怎么努力也无能为力的时候
 		- 三是接受自己的平凡并去享受平凡的时候
 - wokeness is a threat to civilizaion
+- > How to stop time: kiss.
+  如何停止时间：亲吻
+  How to travel in time: read.
+  如何时间旅行：阅读
+  How to escape time: music.
+  如何逃脱时间：音乐
+  How to feel time: write.
+  如何感受时间：写作
+  How to release time: breathe.
+  如何释放时间：呼吸
+-
 -
