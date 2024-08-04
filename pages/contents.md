@@ -6,7 +6,7 @@
 - [[Area]]
 	- [[Web3.0]]
 	- [[AIGC]]
-	- [[How To Learn English]] -- 学习英语，找Remote Jobs
+	- [[How To Learn English]]
 	- [[数据架构]]
 	- [[Awesome GitHub]]
 	-
